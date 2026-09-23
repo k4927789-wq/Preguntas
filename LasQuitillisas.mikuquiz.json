@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Las Quintillizas (The Quintessential Quintuplets)",
+  "questions": [
+    {
+      "text": "¿Cuál es el nombre completo del protagonista que se convierte en tutor de las hermanas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Futaro Uesugi",
+        "Yuusuke Uesugi",
+        "Isanari Nakano",
+        "Fuutarou Takeda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la mayor de las quintillizas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ichika Nakano",
+        "Nino Nakano",
+        "Miku Nakano",
+        "Yotsuba Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la segunda hermana de las quintillizas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Nino Nakano",
+        "Ichika Nakano",
+        "Miku Nakano",
+        "Itsuki Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la tercera hermana de las quintillizas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Miku Nakano",
+        "Ichika Nakano",
+        "Nino Nakano",
+        "Yotsuba Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la cuarta hermana de las quintillizas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Yotsuba Nakano",
+        "Miku Nakano",
+        "Itsuki Nakano",
+        "Ichika Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la menor de las quintillizas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Itsuki Nakano",
+        "Yotsuba Nakano",
+        "Miku Nakano",
+        "Nino Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el tema o período histórico favorito de Miku Nakano?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Los generales del período Sengoku (Señores de la guerra)",
+        "La Era Meiji",
+        "La Revolución Francesa",
+        "La historia de la Segunda Guerra Mundial"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué accesorio distintivo suele llevar Miku alrededor del cuello?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Auriculares / Audífonos de diadema",
+        "Una bufanda roja",
+        "Un gargantilla de cuero",
+        "Un collar con un dije de mariposa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué profesión sueña o aspira dedicarse Ichika?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Actriz de cine y televisión",
+        "Modelo de moda internacional",
+        "Chef pastelera",
+        "Profesora de educación física"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué accesorio característico lleva Nino en el cabello?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cintas con forma de mariposa negra y rosa",
+        "Un lazo gigante en la parte superior",
+        "Una diadema con orejas de gato",
+        "Broches en forma de estrella"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el distintivo característico en la cabeza de Yotsuba?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Una cinta/lazo verde con forma de orejas de conejo",
+        "Una gorra de béisbol",
+        "Una flor amarilla",
+        "Un broche de trébol de cuatro hojas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué rasgo alimenticio o de apetito caracteriza a Itsuki Nakano?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tiene un gran apetito y le encanta comer (es una glotona)",
+        "Es vegetariana estricta",
+        "Solo consume comida picante",
+        "Detesta las golosinas y los postres"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué accesorio lleva Itsuki a los lados de su cabello?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Broches de pelo en forma de estrella",
+        "Cintas rojas",
+        "Ganchos en forma de luna",
+        "Flores blancas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la hermana menor de Futaro Uesugi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Raiha Uesugi",
+        "Rena Uesugi",
+        "Takebayashi",
+        "Tsubaki Uesugi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la principal habilidad de Nino Nakano en el hogar?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Cocinar y preparar postres de alta calidad",
+        "Reparar electrodomésticos",
+        "Coser y diseñar ropa",
+        "Limpiar y organizar la casa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué club o actividad deportiva presta ayuda frecuentemente Yotsuba?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "A diversos clubes deportivos que necesitan suplentes (Baloncesto, Atletismo, etc.)",
+        "Exclusivamente al club de Natación",
+        "Al club de Tenis de mesa",
+        "Al equipo escolar de Fútbol"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el padre adoptivo de las quintillizas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Maruo Nakano",
+        "Isanari Nakano",
+        "Mudou Nakano",
+        "Kenji Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la profesión de Maruo Nakano?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Médico / Director de hospital",
+        "Abogado de renombre",
+        "Empresario inmobiliario",
+        "Político local"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llamaba la difunta madre biológica de las quintillizas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Rena Nakano",
+        "Shimako Nakano",
+        "Takebayashi Nakano",
+        "Honami Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué profesión ejercía la madre de las quintillizas antes de fallecer?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Profesora / Maestra de escuela",
+        "Enfermera",
+        "Chef",
+        "Periodista"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué profesión aspira Itsuki Nakano siguiendo los pasos de su madre?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Profesora / Maestra",
+        "Doctora",
+        "Critica gastronómica",
+        "Abogada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la alter-ego o disfraz que usa Nino cuando conoce por primera vez a Futaro sin saber que es él en el viaje?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Kintarou",
+        "Soutarou",
+        "Kotarou",
+        "Ryotaro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Futaro acepta inicialmente el trabajo de tutor de las quintillizas a pesar de que no querían estudiar?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Para saldar la enorme deuda económica de su familia",
+        "Para ganar una beca universitaria",
+        "Porque se lo ordenó el director del colegio",
+        "Porque estaba enamorado de Itsuki desde el primer día"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué ciudad turística de Japón tiene lugar el famoso viaje escolar donde ocurre la saga del Legend de las Leyendas de la fogata?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Kyoto",
+        "Karuizawa",
+        "Hakone",
+        "Nikko"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué mito o leyenda urbana existe sobre la fogata del campamento escolar?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La pareja que se tome de las manos al sonar el baile final de la fogata estará unida para siempre",
+        "Quien tire una rama al fuego aprobará todos los exámenes",
+        "Si bailas solo alrededor del fuego quedarás soltero de por vida",
+        "Las personas que compartan una manta tendrán buena suerte"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la primera hermana en aceptar abiertamente a Futaro como su tutor académico?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Yotsuba Nakano",
+        "Itsuki Nakano",
+        "Miku Nakano",
+        "Nino Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la primera hermana que se enamora conscientemente de Futaro y se lo confiesa primero?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Miku Nakano",
+        "Ichika Nakano",
+        "Nino Nakano",
+        "Itsuki Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué método usa Nino para confesar sus sentimientos a Futaro de forma directa y memorable?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Se lo confiesa en la motocicleta mientras van conduciendo y al ver que no escuchó, se lo repite mirándolo a los ojos",
+        "Le deja una carta de amor en su casillero",
+        "Se lo dice frente a todas sus hermanas en el comedor",
+        "Se lo escribe en un pastel hecho por ella"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué restaurante de panadería / cafetería trabajan juntos Futaro y Miku?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Panadería Revam (Pastelería Takabayashi)",
+        "Café Nakano",
+        "Starrbucks",
+        "Bakery Moon"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué lugar de trabajo a tiempo parcial acaba trabajando Nino más adelante junto a Futaro?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En la misma panadería / pastelería (Revam)",
+        "En una tienda de conveniencia",
+        "En un restaurante familiar",
+        "En una floristería"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el abuelo de las quintillizas que dirige una posada tradicional (Ryokan)?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El abuelo Nakano (dueño de la posada Toraiwa)",
+        "Kenji Uesugi",
+        "Mudou",
+        "Hisao"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué capacidad especial tiene el abuelo de las quintillizas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Puede distinguir perfectamente a las cinco hermanas sin importar cómo vayan disfrazadas",
+        "Puede cocinar cualquier plato con solo probarlo",
+        "Sabe tocar la guitarra profesionalmente",
+        "Habla cinco idiomas con fluidez"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué condición clave menciona el abuelo que se necesita para distinguir a las quintillizas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Amor (conocerlas profundamente a través del afecto)",
+        "Memorizar sus voces",
+        "Mirar la forma de sus manos",
+        "Prestar atención a sus peinados"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué disfraz utilizan las cinco hermanas durante el viaje a la posada del abuelo para probar a Futaro?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Se disfrazan todas de Itsuki",
+        "Se disfrazan todas de Miku",
+        "Se disfrazan todas de Yotsuba",
+        "Se disfrazan todas de Ichika"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A quién logra reconocer Futaro por primera vez entre las hermanas disfrazadas en la posada del abuelo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Miku Nakano",
+        "Nino Nakano",
+        "Ichika Nakano",
+        "Yotsuba Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la misteriosa niña que Futaro conoció en Kyoto cinco años antes de la historia principal?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Yotsuba Nakano",
+        "Itsuki Nakano",
+        "Ichika Nakano",
+        "Nino Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué seudónimo / nombre utiliza la niña del pasado cuando se le aparece a Futaro de joven adulto?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Rena",
+        "Takebayashi",
+        "Kikuri",
+        "Mutsumi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hermana se encarga de disfrazarse de 'Rena' para encontrarse con Futaro en el parque del lago?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Itsuki Nakano (a petición de Yotsuba)",
+        "Ichika Nakano",
+        "Nino Nakano",
+        "Miku Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Futaro cambió radicalmente su actitud y se convirtió en un estudiante brillante?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Por la promesa que hizo con la niña que conoció en Kyoto (Yotsuba) de ser alguien necesario e inteligente",
+        "Para complacer a su padre",
+        "Porque sufrió de bullying por sus malas notas",
+        "Para ganar un premio escolar"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué asignatura destaca o tiene el puntaje más alto Miku?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Historia (Estudios Sociales)",
+        "Matemáticas",
+        "Inglés",
+        "Ciencias Naturales"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué asignatura destaca o saca la mejor nota Ichika?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Matemáticas",
+        "Literatura",
+        "Historia",
+        "Inglés"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué asignatura destaca o se le da mejor a Nino?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Inglés",
+        "Química",
+        "Geografía",
+        "Arte"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué asignatura académica destaca o tiene mejores notas Yotsuba?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Japonés / Literatura",
+        "Física",
+        "Inglés",
+        "Matemáticas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué materia destaca o saca mayor puntaje Itsuki?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ciencias (Biología/Física)",
+        "Historia del Arte",
+        "Inglés",
+        "Educación Física"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué acción desesperada comete Ichika en el viaje a Kyoto disfrazándose de Miku?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Intenta sabotear la confesión de Miku diciéndole a Futaro que a Ichika le gusta él",
+        "Le roba los auriculares a Miku",
+        "Falsa la nota de los exámenes de Miku",
+        "Se declara a Futaro diciendo que es Nino"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el autor / mangaka de 'The Quintessential Quintuplets' (Go-Tōbun no Hanayome)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Negi Haruba",
+        "Reiji Miyajima",
+        "Aki Hamaji",
+        "Kenjirou Hata"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la marca o rasgo característico de las calificaciones académicas de las hermanas al inicio del anime?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Todas están al borde de reprobar y sacan notas pésimas",
+        "Son las mejores de la clase pero no asisten",
+        "Tienen calificaciones excelentes en todas las materias",
+        "Solo reprueban educación física"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué secreto guarda Yotsuba sobre su cambio de escuela del pasado?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Reprobó por centrarse solo en los deportes y sus cuatro hermanas decidieron reprobar a propósito para cambiarse de escuela con ella",
+        "Fue expulsada por pelearse con un profesor",
+        "Se cambió porque odiaba a sus hermanas",
+        "Perdió una beca de atletismo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el padre biológico de las quintillizas que reaparece durante el festival escolar?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mudou",
+        "Isanari",
+        "Maruo",
+        "Takeda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué actitud toma el padre biológico Mudou cuando regresa a la vida de Itsuki?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Intenta manipular a Itsuki para que abandone su sueño de ser profesora diciendo que su madre fracasó",
+        "Le ofrece millones de yenes a las hermanas",
+        "Intenta llevarse a las cinco a vivir a Estados Unidos",
+        "Quiere obligar a Itsuki a casarse"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué evento escolar decisivo Futaro decide finalmente elegir a una de las quintillizas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Festival Cultural de la Escuela Secundaria (Festival Escolar)",
+        "El Viaje de Graduación",
+        "En la ceremonia de fin de año",
+        "Durante el cumpleaños de las quintillizas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué aula o espacio espera la quintilliza elegida por Futaro durante el festival escolar?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En la enfermería (Yotsuba)",
+        "En el salón de música",
+        "En la azotea del colegio",
+        "En el laboratorio de química"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A quién elige finalmente Futaro Uesugi para convertirse en su esposa?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Yotsuba Nakano",
+        "Miku Nakano",
+        "Nino Nakano",
+        "Ichika Nakano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué objeto de la infancia conservaba Yotsuba que simbolizaba su vínculo con Futaro?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La foto que se tomaron juntos en Kyoto",
+        "Un amuleto de la suerte de un templo",
+        "Un libro de estudio arrugado",
+        "Una cinta para el pelo vieja"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué profesión decide ejercer Miku Nakano al finalizar la secundaria?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Abre una tienda de panadería/restaurante junto a Nino",
+        "Se convierte en historiadora",
+        "Se hace diseñadora de modas",
+        "Trabaja en un hospital como enfermera"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estudio de animación produjo la PRIMERA temporada del anime?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tezuka Productions",
+        "Bibury Animation Studios",
+        "CloverWorks",
+        "Kyoto Animation"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estudio de animación estuvo a cargo de la SEGUNDA temporada y la película final?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Bibury Animation Studios",
+        "Tezuka Productions",
+        "A-1 Pictures",
+        "MAPPA"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la fecha de cumpleaños compartida por las quintillizas Nakano?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "5 de Mayo (05/05)",
+        "15 de Abril",
+        "1 de Enero",
+        "25 de Diciembre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Itsuki técnicamente celebra o nació un día distinto según el registro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Nació pasada la medianoche (6 de Mayo), aunque celebran juntas el 5 de Mayo",
+        "Nació en un año bisiesto",
+        "Fue adoptada un día después",
+        "Nació en un país con otra zona horaria"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué detalle cómico ocurre al final del banquete de la boda de Futaro y Yotsuba con el resto de las hermanas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Todas las hermanas deciden unirse también al viaje de luna de miel de los novios",
+        "Nino e Ichika se pelean por tirar el ramo",
+        "Futaro se equivoca de hermana en la mesa de bodas",
+        "Itsuki se come todo el pastel antes de cortarlo"
+      ],
+      "correct": 0
+    }
+  ]
+}

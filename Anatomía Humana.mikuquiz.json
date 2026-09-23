@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Anatomía Humana: Huesos, Músculos y Sistemas",
+  "questions": [
+    {
+      "text": "¿Cómo se clasifican los huesos como el fémur y el húmero, que son más largos que anchos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Huesos largos",
+        "Huesos cortos",
+        "Huesos planos",
+        "Huesos irregulares"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué órgano muscular principal del sistema circulatorio bombea la sangre a todo el cuerpo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El corazón",
+        "El pulmón",
+        "El hígado",
+        "El bazo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de tejido muscular es involuntario, no estriado y se encuentra en las paredes de los órganos huecos como el estómago?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Músculo liso",
+        "Músculo esquelético",
+        "Músculo cardíaco",
+        "Músculo estriado voluntario"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué sistema del cuerpo humano se encarga de procesar los alimentos para absorber nutrientes y eliminar desechos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sistema digestivo",
+        "Sistema nervioso",
+        "Sistema respiratorio",
+        "Sistema circulatorio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la función principal del sistema respiratorio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Intercambiar oxígeno y dióxido de carbono con el entorno",
+        "Transportar nutrientes a las células",
+        "Filtrar la sangre para formar orina",
+        "Transmitir señales eléctricas por el cuerpo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué categoría pertenecen los huesos del carpo en las muñecas y los del tarso en los tobillos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Huesos cortos",
+        "Huesos largos",
+        "Huesos sesamoides",
+        "Huesos irregulares"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tejido muscular es estriado pero actúa de manera involuntaria y se encuentra exclusivamente en el corazón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Músculo cardíaco (Miocardio)",
+        "Músculo liso",
+        "Músculo esquelético",
+        "Músculo viscerar voluntario"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuáles son las dos divisiones principales del sistema nervioso humano?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sistema Nervioso Central (SNC) y Sistema Nervioso Periférico (SNP)",
+        "Sistema Nervioso Somático y Sistema Motor",
+        "Sistema Craneal y Sistema Espinal",
+        "Sistema Nervioso Simpático y Sistema Autónomo Somático"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué órgano del sistema digestivo ocurre la mayor parte de la absorción de nutrientes hacia la sangre?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Intestino delgado",
+        "Estómago",
+        "Intestino grueso",
+        "Esófago"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de tejido muscular está bajo control voluntario y se une a los huesos mediante tendones?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Músculo esquelético",
+        "Músculo liso",
+        "Músculo cardíaco",
+        "Músculo visceral"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se clasifican los huesos del cráneo, las costillas y el esternón, que protegen órganos internos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Huesos planos",
+        "Huesos largos",
+        "Huesos irregulares",
+        "Huesos sesamoides"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué vasos sanguíneos llevan la sangre oxigenada desde el corazón hacia el resto del cuerpo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Arterias",
+        "Venas",
+        "Capilares",
+        "Linfáticos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la célula fundamental del sistema nervioso encargada de transmitir impulsos eléctricos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Neurona",
+        "Miocito",
+        "Osteocito",
+        "Nefrona"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué músculo plano con forma de cúpula es el principal responsable de la respiración?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Diafragma",
+        "Trapecio",
+        "Intercostal interno",
+        "Pectoral mayor"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué tipo pertenece la rótula (patela), un hueso incrustado dentro de un tendón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hueso sesamoideo",
+        "Hueso plano",
+        "Hueso corto",
+        "Hueso irregular"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué vasos sanguíneos devuelven la sangre desoxigenada de vuelta al corazón?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Venas",
+        "Arterias",
+        "Capilares",
+        "Arteriolas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estructuras forman el Sistema Nervioso Central?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El encéfalo y la médula espinal",
+        "Los nervios craneales y periféricos",
+        "El cerebro y las neuronas motoras",
+        "La columna vertebral y los ganglios"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué conducto muscular conecta la boca con el estómago mediante movimientos peristálticos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Esófago",
+        "Tráquea",
+        "Faringe",
+        "Duodeno"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se clasifican las vértebras de la columna vertebral y los huesos de la pelvis por su forma compleja?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Huesos irregulares",
+        "Huesos planos",
+        "Huesos cortos",
+        "Huesos neumáticos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estructuras microscópicas dentro de los pulmones realizan el intercambio gaseoso con los capilares?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Alvéolos",
+        "Bronquios",
+        "Bronquiolos",
+        "Pleuras"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tejido conecta los músculos esqueléticos directamente con los huesos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Tendón",
+        "Ligamento",
+        "Cartílago",
+        "Fascia profunda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuáles son los vasos más pequeños donde ocurre el intercambio de gases y nutrientes entre la sangre y las células?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Capilares",
+        "Arteriolas",
+        "Vénulas",
+        "Arterias musculares"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué sustancia química producida por el hígado ayuda a digerir y emulsionar las grasas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Bilis",
+        "Insulina",
+        "Jugo gástrico",
+        "Pepsina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de músculo se encuentra en las paredes de las arterias regulando la presión arterial?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Músculo liso",
+        "Músculo esquelético",
+        "Músculo cardíaco",
+        "Músculo estriado voluntario"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué cubierta o membrana protectora rodea a los pulmones dentro de la cavidad torácica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pleura",
+        "Pericardio",
+        "Peritoneo",
+        "Meninge"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hueso largo del brazo se ubica en el lado del pulgar en el antebrazo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Radio",
+        "Cúbito (Ulna)",
+        "Húmero",
+        "Clavícula"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué división del sistema nervioso autónomo prepara al cuerpo para situaciones de 'lucha o huida'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sistema Nervioso Simpático",
+        "Sistema Nervioso Parasimpático",
+        "Sistema Nervioso Somático",
+        "Sistema Entero"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué órgano digestivo es responsable de reabsorber agua y formar las heces para su eliminación?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Intestino grueso (Colon)",
+        "Estómago",
+        "Intestino delgado",
+        "Páncreas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la propiedad de los músculos para acortarse y generar fuerza?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Contractilidad",
+        "Excitabilidad",
+        "Extensibilidad",
+        "Elasticidad"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué conducto cartilaginoso lleva el aire desde la laringe hacia los bronquios principales?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tráquea",
+        "Esófago",
+        "Faringe",
+        "Fosas nasales"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el hueso más largo, pesado y fuerte del cuerpo humano?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Fémur",
+        "Tibia",
+        "Húmero",
+        "Peroné"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué proteína transporta el oxígeno en los glóbulos rojos del sistema circulatorio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hemoglobina",
+        "Miosina",
+        "Actina",
+        "Fibrina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué parte de la neurona recibe las señales procedentes de otras células nerviosas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Dendritas",
+        "Axón",
+        "Soma",
+        "Vaina de mielina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuáles son las dos miofibrillas proteicas principales responsables de la contracción muscular?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Actina y Miosina",
+        "Colágeno y Elastina",
+        "Keratina y Fibrina",
+        "Osteona y Cartílago"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué válvula impide que el alimento entre a la tráquea durante la deglución en el sistema respiratorio y digestivo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Epiglotis",
+        "Cardias",
+        "Píloro",
+        "Glotis"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de hueso contiene cavidades llenas de aire (senos), como el esfenoides o el maxilar?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Huesos neumáticos",
+        "Huesos largos",
+        "Huesos sesamoides",
+        "Huesos planos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué cámara del corazón recibe la sangre desoxigenada que proviene del cuerpo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Aurícula derecha",
+        "Ventrículo izquierdo",
+        "Aurícula izquierda",
+        "Ventrículo derecho"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué división del sistema nervioso autónomo promueve el estado de 'reposo y digestión'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sistema Nervioso Parasimpático",
+        "Sistema Nervioso Simpático",
+        "Sistema Motor Somático",
+        "Sistema Nervioso Periférico Central"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué ácido presente en el estómago ayuda a descomponer los alimentos y matar bacterias?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ácido clorhídrico",
+        "Ácido sulfúrico",
+        "Ácido láctico",
+        "Ácido acético"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué músculo grande y triangular cubre el hombro y permite levantar el brazo hacia los lados?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Deltoides",
+        "Bíceps braquial",
+        "Dorsal ancho",
+        "Pectoral mayor"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hueso es el principal soporte de soporte de peso en la parte inferior de la pierna?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Tibia",
+        "Peroné (Fíbula)",
+        "Fémur",
+        "Rótula"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué componente líquido de la sangre transporta agua, sales, enzimas y nutrientes?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Plasma",
+        "Plaquetas",
+        "Glóbulos blancos",
+        "Linfa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué prolongación larga de la neurona conduce el impulso eléctrico lejos del cuerpo celular?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Axón",
+        "Dendrita",
+        "Botón sináptico",
+        "Núcleo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué movimiento muscular reduce el ángulo entre dos huesos (como doblar el codo)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Flexión",
+        "Extensión",
+        "Abducción",
+        "Aducción"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué glándula mixta produce enzimas digestivas y hormonas como la insulina?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Páncreas",
+        "Hígado",
+        "Vesícula biliar",
+        "Tiroides"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el hueso más pequeño del cuerpo humano, ubicado en el oído medio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Estribo",
+        "Martillo",
+        "Yunque",
+        "Escafoides"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué cámara del corazón impulsa la sangre oxigenada hacia la arteria aorta con alta presión?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ventrículo izquierdo",
+        "Aurícula derecha",
+        "Ventrículo derecho",
+        "Aurícula izquierda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué capa aislante grasa acelera la transmisión de impulsos a lo largo del axón?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Vaina de mielina",
+        "Meninge",
+        "Neuroglia",
+        "Soma"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué par de músculos antagónicos controlan la flexión y extensión de la articulación del codo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Bíceps braquial y Tríceps braquial",
+        "Cuádriceps e Isquiotibiales",
+        "Gastrocnemio y Sóleo",
+        "Pectoral y Dorsal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué región de la cavidad nasal se calienta, humedece y filtra el aire inhalado?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Fosas nasales / Cornetes nasales",
+        "Laringe",
+        "Faringe",
+        "Bronquios"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué huesos forman la jaula torácica protegiendo el corazón y los pulmones?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Las costillas y el esternón (junto a vértebras torácicas)",
+        "La escápula y la clavícula",
+        "La pelvis y el sacro",
+        "El omóplato y el húmero"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué células sanguíneas participan en la coagulación para evitar hemorragias?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Plaquetas (Trombocitos)",
+        "Glóbulos rojos (Eritrocitos)",
+        "Glóbulos blancos (Leucocitos)",
+        "Linfocitos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estructura de la neurona libera neurotransmisores en la hendidura sináptica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Terminal del axón (Botones sinápticos)",
+        "Dendrita",
+        "Cuerpo celular",
+        "Núcleo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el grupo muscular formado por 4 músculos en la parte anterior del muslo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cuádriceps femoral",
+        "Isquiotibiales",
+        "Gastrocnemios",
+        "Aductores"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué esfínter muscular controla el paso del quimo desde el estómago hacia el duodeno?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Esfínter pilórico (Píloro)",
+        "Cardias",
+        "Esfínter anal",
+        "Válvula ileocecal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué único hueso del cuerpo humano no se articula directamente con ningún otro hueso?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hueso hioides",
+        "Esternón",
+        "Rótula",
+        "Cóccix"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué circuito circulatorio lleva sangre del corazón a los pulmones y de regreso al corazón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Circulación pulmonar (o menor)",
+        "Circulación sistémica (o mayor)",
+        "Circulación coronaria",
+        "Circulación portal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué centro del encéfalo controla funciones vitales involuntarias como la frecuencia cardíaca y la respiración?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bulbo raquídeo (Tronco encefálico)",
+        "Cerebelo",
+        "Corteza cerebral",
+        "Hipotálamo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué gran músculo posterior de la pantorrilla se inserta en el talón mediante el tendón de Aquiles?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gastrocnemio (Gemelos)",
+        "Tibial anterior",
+        "Sartorio",
+        "Vasto lateral"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la función del moco y los cilios presentes en el epitelio respiratorio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Atrapar y expulsar partículas, polvo y patógenos inhalados",
+        "Absorber oxígeno directamente hacia la garganta",
+        "Producir enzimas digestivas respiratorias",
+        "Enfriar el aire durante el ejercicio"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Bocchi the Rock!",
+  "questions": [
+    {
+      "text": "¿Cuál es el nombre completo de la protagonista apodada 'Bocchi'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hitori Gotoh",
+        "Nijika Ijichi",
+        "Ryo Yamada",
+        "Ikuyo Kita"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué instrumento toca Hitori Gotoh en Kessoku Band?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Guitarra principal",
+        "Batería",
+        "Bajo",
+        "Teclado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el canal de YouTube donde Bocchi sube sus covers de guitarra?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "guitarhero",
+        "bocchirock",
+        "kessokuguitar",
+        "lonelyguitarist"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién recluta a Bocchi para unirse a la banda en el parque?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Nijika Ijichi",
+        "Ryo Yamada",
+        "Ikuyo Kita",
+        "Seika Ijichi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué instrumento toca Nijika Ijichi?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Batería",
+        "Guitarra rítmica",
+        "Bajo",
+        "Teclado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué instrumento toca Ryo Yamada en la banda?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bajo",
+        "Guitarra solista",
+        "Batería",
+        "Saxofón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el rol de Ikuyo Kita en Kessoku Band?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Vocalista principal y guitarra rítmica",
+        "Baterista y coros",
+        "Bajista",
+        "Mánager"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el club en vivo donde trabaja la hermana de Nijika y toca la banda?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "STARRY",
+        "SHELTER",
+        "ROCK HALL",
+        "LIVE HOUSE Z"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la dueña/encargada del club de música STARRY?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Seika Ijichi",
+        "PA-san",
+        "Kikuri Hiroi",
+        "Futari Gotoh"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué objeto improvisado toca Bocchi durante su primer concierto de prueba en STARRY?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Una caja de mangos",
+        "Un bote de basura",
+        "Detrás de un cortinaje",
+        "Una caja de cartón de refrescos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el color distintivo del cabello de Bocchi?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Rosa",
+        "Amarillo",
+        "Azul",
+        "Rojo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la hermana menor de Hitori Gotoh?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Futari",
+        "Michiyo",
+        "Jimi",
+        "Yoyoko"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el perro de la familia Gotoh?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Jimihen",
+        "Pochi",
+        "Kuro",
+        "Spike"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué famoso músico hace referencia el nombre del perro de Bocchi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jimi Hendrix",
+        "Jimmy Page",
+        "Jim Morrison",
+        "Jimi Westbrook"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Kita huyó originalmente de la banda antes del primer concierto?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mentó diciendo que sabía tocar la guitarra cuando en realidad no sabía",
+        "Tenía pánico escénico",
+        "Se peleó con Nijika",
+        "Sus padres no la dejaron"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué razón Kita aceptó unirse originalmente a Kessoku Band?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Estaba enamorada/admiraba profundamente a Ryo Yamada",
+        "Quería ser famosa en redes",
+        "Su mejor amiga se lo pidió",
+        "Quería ganar dinero para un viaje"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué suele comer Ryo cuando se queda sin dinero por comprar instrumentos o equipo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hierbas y maleza del campo",
+        "Ramen instantáneo vencido",
+        "Solo agua de la llave",
+        "Pan rancio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la bajista adulta y alcohólica que se convierte en mentora de Bocchi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Kikuri Hiroi",
+        "Eliza Shimizu",
+        "Shima Iwashita",
+        "Yoyoko Otsuki"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué banda de rock psicodélico/folk es líder y bajista Kikuri Hiroi?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "SICK HACK",
+        "ALAKALI RECKLESS",
+        "STARRY NIGHTS",
+        "SHELTER GIRLS"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca y modelo es la primera guitarra que Bocchi le pide prestada a su padre?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gibson Les Paul Custom Black Beauty",
+        "Fender Stratocaster",
+        "Yamaha Pacifica",
+        "Ibanez RG"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué guitarra compra Bocchi al final de la primera temporada con el dinero de su trabajo a tiempo parcial?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Yamaha Pacifica 611",
+        "Fender Telecaster",
+        "Gibson Flying V",
+        "Epiphone Les Paul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Significado aproximado del término 'Kessoku' en Kessoku Band?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Unión / Solidaridad / Cinta de amarre",
+        "Roca brillante",
+        "Juventud rápida",
+        "Estrella solitaria"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué famoso grupo de rock japonés provienen los apellidos de las cuatro integrantes principales?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Asian Kung-Fu Generation",
+        "ONE OK ROCK",
+        "L'Arc-en-Ciel",
+        "RADWIMPS"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién escribe las letras de la mayoría de las canciones de Kessoku Band?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hitori Gotoh",
+        "Nijika Ijichi",
+        "Ryo Yamada",
+        "Ikuyo Kita"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién compone la música y los arreglos principales para Kessoku Band?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ryo Yamada",
+        "Hitori Gotoh",
+        "Nijika Ijichi",
+        "Seika Ijichi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué trabajo a tiempo parcial consiguen Bocchi y las chicas para financiar sus gastos de banda?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Trabajar en el Live House STARRY",
+        "Repartir periódicos",
+        "Atender una cafetería de sirvientas",
+        "Vender instrumentos de segunda mano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué forma física adopta o simula Bocchi de forma cómica cuando su ansiedad social colapsa por completo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Polvo / Ceniza o un bloque de bajo poligonaje",
+        "Un slime gigante",
+        "Un fantasma transparente",
+        "Una estatua de piedra"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la bebida alcohólica favorita de Kikuri Hiroi que suele llevar en un cartón?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Onikoroshi",
+        "Sake Premium",
+        "Asahi Super",
+        "Kirin Lemon"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué evento escolar actúa Kessoku Band cerca del final de la temporada 1?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Festival Cultural de la Escuela Shuka",
+        "El Torneo de Bandas Juveniles",
+        "La Graduación de Tercer Año",
+        "El Festival de Verano de Shimokitazawa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué percance técnico sufre la guitarra de Bocchi durante la presentación en el festival escolar?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Se rompe una cuerda y la clavija de afinación se rompe",
+        "Se desconecta el cable del amplificador",
+        "Se le rompe la púa",
+        "Se apaga el pedal de distorsión"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué utensilio usa Bocchi improvisadamente para hacer un solo estilo 'bottleneck' (slide) cuando se rompe su guitarra?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Una lata de vaso/sake de vidrio de Kikuri",
+        "Un encendedor",
+        "Su propio micrófono",
+        "Una botella de agua de plástico"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace Bocchi impulsivamente al final de su exitosa presentación en el festival escolar?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Se lanza hacia el público (stage dive) y cae de cara",
+        "Rrompe la guitarra contra el suelo",
+        "Comienza a llorar desconsoladamente en el micrófono",
+        "Sale corriendo del escenario sin decir nada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué barrio o zona real de Tokio se encuentra ubicado el club STARRY y gira la mayor parte de la historia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Shimokitazawa",
+        "Akihabara",
+        "Shibuya",
+        "Shinjuku"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el apodo cariñoso/característico con el que Kita llama a Bocchi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gotoh-san",
+        "Hitori-chan",
+        "Bocchi-chan",
+        "Hitori-sama"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué a Kita no le gusta inicialmente su propio nombre completo ('Ikuyo Kita')?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Porque suena como un juego de palabras que significa '¡Vamos, allá vamos!'",
+        "Porque suena demasiado antiguo",
+        "Porque es muy difícil de pronunciar",
+        "Porque es el mismo nombre de una cantante famosa que detesta"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué accesorio suele usar Bocchi en el cabello?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Dos cubos estilizados (uno azul y uno amarillo)",
+        "Un lazo rojo brillante",
+        "Una diadema con orejas de gato",
+        "Un broche en forma de estrella"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la vestimenta diaria habitual de Bocchi fuera de la escuela?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un chándal / sudadera deportiva rosa",
+        "Un vestido gótico elegante",
+        "Una chaqueta de cuero negra",
+        "Una camiseta oversize de bandas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué apodo o título le otorga Nijika a Bocchi cuando descubre lo talentosa que es?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El héroe de la guitarra (Guitar Hero)",
+        "La diosa del rock",
+        "El monstruo del escenario",
+        "La reina secreta"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál era el sueño secreto de Nijika al formar Kessoku Band?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hacer famosa a la banda para hacer realidad el sueño de su hermana Seika",
+        "Ser multimillonaria y salir en televisión",
+        "Superar a la banda SICK HACK",
+        "Tocar en el Budokan antes de graduarse"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué peculiaridad tiene la empleada llamada 'PA-san' en STARRY?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tiene estilo gótico/piercings y nunca se revela su nombre real",
+        "Es muda y se comunica por carteles",
+        "Es una robot antropomórfica",
+        "Es la madre de Ryo Yamada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué actividad hace Bocchi en el parque cuando conoce por primera vez a Kikuri Hiroi?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Practicaba guitarra en la banca intentando conseguir espectadores",
+        "Estaba escondida debajo de un tobogán llorando",
+        "Le daba de comer a las palomas",
+        "Estaba durmiendo en una caja"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo ayuda Kikuri a Bocchi a superar su miedo de tocar frente a extraños en la calle?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Organizan un concierto callejero (Street Live) improvisado juntas",
+        "Le da un trago de alcohol",
+        "La obliga a cantar a grito pelado",
+        "Le compra un disfraz para ocultarse"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la primera canción con la que Kessoku Band pasa la audición de Seika en STARRY?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "That Band (Ano Band)",
+        "Guitar, Loneliness and Blue Planet",
+        "Seishun Complex",
+        "Rockn' Roll, Morning Light Falls on You"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué canción sirve como tema de apertura (Opening) del anime de Bocchi the Rock!?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Seishun Complex",
+        "Distortion!!",
+        "Karakara",
+        "Nani ga Bad"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué comida intenta preparar el grupo cuando van a visitar la casa de Bocchi?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hamburguesas y aperitivos preparados por la mamá de Bocchi",
+        "Soba casero desde cero",
+        "Takoyaki gigante",
+        "Barbacoa en el jardín"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo reacciona la familia de Bocchi cuando sus amigas la visitan por primera vez?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Se emocionan en exceso e instalan un cartel de bienvenida",
+        "Pensaban que era un engaño y no las dejan pasar",
+        "Ignoran a las visitas por ver la televisión",
+        "Su padre llora desconsoladamente pensando que son cobradoras"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué se dedica la familia de Ryo Yamada?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Dirigen un hospital/clínica (son muy adinerados)",
+        "Tienen una tienda de guitarras",
+        "Son dueños de un restaurante de ramen",
+        "Son agricultores de hortalizas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Ryo dejó su antigua banda antes de unirse a Kessoku Band?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sintió que la banda perdió su individualidad al buscar solo éxito comercial",
+        "La echaron por no asistir a los ensayos",
+        "Se peleó físicamente con el vocalista",
+        "Quería cambiarse a tocar la batería"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de aura o efecto visual emite Kita cuando demuestra su personalidad alegre y extrovertida?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un destello cegador (Kitaura / Kita-aura)",
+        "Un arcoíris mágico",
+        "Fuego ardiente",
+        "Burbujas de jabón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el autor/mangaka creador de la obra 'Bocchi the Rock!'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Aki Hamaji",
+        "Kagami Yoshimizu",
+        "Atto",
+        "CloverWorks"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estudio de animación estuvo a cargo de adaptar el anime de Bocchi the Rock!?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "CloverWorks",
+        "Kyoto Animation",
+        "KyoAni",
+        "MAPPA"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué objeto de la casa de Bocchi utiliza ella para esconderse cuando se siente abrumada?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El armario / closet de su habitación",
+        "Debajo de la cama",
+        "Dentro del refrigerador",
+        "La caseta del perro Jimihen"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el episodio en el que Kessoku Band viaja a Enoshima?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Enoshima Escapade",
+        "Viaje a la playa",
+        "El verano de las rocas",
+        "Vacaciones de Kessoku"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué animal ataca o asusta a Bocchi durante su visita a Enoshima?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un grupo de halcones/gavilanes",
+        "Un perro callejero",
+        "Un mono",
+        "Un cangrejo gigante"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace Bocchi en secundaria para intentar que la gente note que le gusta el rock?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Llevaba su guitarra al colegio y ponía pines de bandas en su mochila",
+        "Cantaba a todo volumen en el recreo",
+        "Repartía folletos de su canal de YouTube",
+        "Usaba ropa de cuero sobre el uniforme"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuántos años practicó guitarra Bocchi en solitario antes de unirse a Kessoku Band?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "3 años (practicando 6 horas al día)",
+        "1 año",
+        "5 años",
+        "6 meses"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo reacciona Seika por dentro hacia Kessoku Band a pesar de mostrarse severa por fuera?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Las apoya enormemente y es una fan secreta de la banda",
+        "Realmente quiere que se rindan",
+        "Le da igual mientras paguen el alquiler",
+        "Quiere robarse a Bocchi para su propia banda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué canción canta Kita en el escenario dedicada o salvando la presentación durante el accidente de Bocchi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Never Forget (Wasurete Yaranai)",
+        "Seishun Complex",
+        "Karakara",
+        "Guitar, Loneliness and Blue Planet"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el título del último episodio de la primera temporada del anime?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Morning Light Falls on You (La luz de la mañana cae sobre ti)",
+        "Bocchi the Rock!",
+        "Kessoku Band Forever",
+        "El camino del héroe"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué canción rinde homenaje el título del último capítulo del anime y su tema de cierre?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Rockn' Roll, Morning Light Falls on You de Asian Kung-Fu Generation",
+        "Rewrite de ASIAN KUNG-FU GENERATION",
+        "Haruka Kanata",
+        "After Dark"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Plantilla de Preguntas Personalizadas",
+  "questions": [
+    {
+      "text": "Escribe aquí la pregunta 1",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 2",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 3",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 4",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 5",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 6",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 7",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 8",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 9",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 10",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 11",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 12",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 13",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 14",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 15",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 16",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 17",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 18",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 19",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 20",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 21",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 22",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 23",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 24",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 25",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 26",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 27",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 28",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 29",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 30",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 31",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 32",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 33",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 34",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 35",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 36",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 37",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 38",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 39",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 40",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 41",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 42",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 43",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 44",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 45",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 46",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 47",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 48",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 49",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 50",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 51",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 52",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 53",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 54",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 55",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 56",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 57",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 58",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 59",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Escribe aquí la pregunta 60",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Opción correcta (Respuesta 1)",
+        "Opción incorrecta A",
+        "Opción incorrecta B",
+        "Opción incorrecta C"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "app": "MikuQuiz",
+  "name": "Re:Zero",
+  "questions": [
+    {
+      "text": "¿Cuál es el nombre de la habilidad principal que adquiere Subaru Natsuki al llegar al otro mundo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Regreso por Muerte",
+        "Mano invisible",
+        "Pacto espiritual",
+        "Autoridad de la soberbia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué apodo falso o alias utiliza Emilia cuando conoce por primera vez a Subaru en el primer bucle?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Satella",
+        "Fortuna",
+        "Echidna",
+        "Minerva"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la función o título oficial de Roswaal L. Mathers en el Reino de Lugunica?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mago de la corte del reino",
+        "Gran sabio del consejo",
+        "Capitan de la guardia mercenaria",
+        "Comandante de los caballeros de la guardia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué pecado capital representa Petelgeuse Romanee-Conti dentro de la Culto de la Bruja?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pereza",
+        "Gula",
+        "Soberbia",
+        "Avaricia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el actual poseedor del título de 'Santo de la Espada' en el Reino de Lugunica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Reinhard Van Astrea",
+        "Julius jukulius",
+        "Willian van astria",
+        "Theresia van Astrea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la especie o raza a la que pertenece Rem y Ram?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Demonios(Oni)",
+        "Elfas",
+        "Espíritus Superiores",
+        "Semi Humanos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué objeto sagrado o libro utiliza Roswaal para guiar sus acciones según el destino predeterminado?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Libro de la sabiduría",
+        "Tomo de las almas",
+        "Evangelio verdadero",
+        "Grimorio del gran pacto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál de las siguientes candidatas a la Selección Real representa al Ducado de Kararagi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Anastasia Hoshin",
+        "Felt",
+        "Crush Karstn",
+        "Priscila barriel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué criatura mítica y peligrosa es derrotada en la expedición liderada por Subaru, Rem y Crusch en el Arco 3?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La ballena blanca",
+        "El gran conejo",
+        "La serpiente negra",
+        "El dragón divino Volcánica"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la condición impuesta para liberar el Santuario durante los acontecimientos del Arco 4?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Completar las 3 pruebas de la tumba",
+        "Formar un contrato con beatrice",
+        "Derrotar a roswaal en un duelo mágico",
+        "Destruir el cuerpo de Echidna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién guardaba la biblioteca prohibida de la Mansión Roswaal antes de su destrucción?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Beatrice",
+        "Frederica Baunaan",
+        "Meili portruote",
+        "Echidna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el verdadero nombre del 'Demonio de la Espada' y esposo de la difunta Santa de la Espada?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Wihelm van Astrea",
+        "Ferris Argy",
+        "Gimm trias",
+        "Heinkel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué autoridad de pecado absorbe Subaru tras la derrota de Petelgeuse Romanee-Conti?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Autoridad de la pereza",
+        "Autoridad de la Gula",
+        "Autoridad de la Avaricia",
+        "Autoridad de la soberbia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Arzobispo del Culto de la Bruja que representa la Avaricia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Regulus Corneas",
+        "Lye Batenkaitos",
+        "Capella Emerada Lugunica",
+        "Sirius Romanée-Conti"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué ciudad es invadida por los Arzobispos del Culto de la Bruja durante los eventos del Arco 5?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pristella",
+        "Flanders",
+        "Costuul",
+        "Guaral"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el espíritu artificial creado por Echidna que acompaña a Emilia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Puck",
+        "Echidna",
+        "Zarestia",
+        "Melakuera"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el nombre de la Bruja de la Avaricia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Echidna",
+        "Minerva",
+        "Daphne",
+        "Carmilla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué causa la pérdida de recuerdos de Rem y su estado vegetativo en el Arco 3?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La Autoridad de la Gula",
+        "La Autoridad de la Pereza",
+        "La maldición de la Ballena Blanca",
+        "Un contrato con Echidna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la relación biológica entre Frederica Baumann y Garfiel Tinsel?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hermanastros por parte de madre",
+        "Primos hermanos",
+        "Hermano y hermana de sangre",
+        "No tienen relación de sangre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la Bruja de la Envidia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Satella",
+        "Sekhmet",
+        "Typhon",
+        "Pandora"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la verdadera identidad del caballero azul que protege a Crusch Karsten?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Felix Argyle (Ferris)",
+        "Julius Juakulius",
+        "Al (Aldebaran)",
+        "Ricardo Welkin"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la razón principal por la que Subaru no puede hablar sobre el 'Regreso por Muerte'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La Bruja de la Envidia aplasta su corazón o mata a quien lo escucha",
+        "Pierde la memoria de inmediato",
+        "Se convierte automáticamente en una sombra",
+        "Es un pacto que lo petrifica al instante"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de magia maneja principalmente Subaru antes de romper su puerta mágica?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ying (Sombra)",
+        "Yang (Luz)",
+        "Fuego",
+        "Agua"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el líder del grupo mercenario 'Compañía Colmillo de Hierro' contratado por Anastasia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ricardo Welkin",
+        "Mimi Pearlbaton",
+        "Hetaro Pearlbaton",
+        "Tivey Pearlbaton"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A qué lugar viaja el grupo de Subaru en el Arco 6 para buscar respuestas sobre cómo curar a Rem?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La Torre de la Vigía Pléiades",
+        "El Imperio de Vollachia",
+        "La Gran Biblioteca de Shaula",
+        "El Gran Cañón de Augria"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el legendario Sabio que supuestamente habita en la Torre de la Vigía Pléiades?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Flugel",
+        "Reid Astrea",
+        "Volcanica",
+        "Alec Hoshin"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la forma del Dragón Divino con el que pactó el Reino de Lugunica?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Volcanica",
+        "Babol",
+        "Mezoria",
+        "Valgren"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué habilidad especial posee Otto Suwen que le permite entender a los animales?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Protección Divina de la Voz del Alma",
+        "Protección Divina del Viento",
+        "Pacto con Espíritus Menores",
+        "Autoridad de la Empatía"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la asesina conocida como 'Cazadora de Entrañas'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Elsa Granhiert",
+        "Meili Portroute",
+        "Capella Emerada Lugunica",
+        "Carmilla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué relación tiene Fortuna con Emilia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Su tía paterna",
+        "Su madre biológica",
+        "Su hermana mayor",
+        "Una sirvienta del bosque"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el verdadero creador y maestro original de las Bestias de las Sombras (Mabeasts)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Daphne, la Bruja de la Gula",
+        "Echidna, la Bruja de la Avaricia",
+        "Pandora, la Bruja de la Vanidad",
+        "Satella, la Bruja de la Envidia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué imperio se desarrollan principalmente los acontecimientos del Arco 7?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Imperio de Vollachia",
+        "Sacro Imperio de Gusteko",
+        "Ducado de Kararagi",
+        "Reino de Lugunica"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el nombre del Emperador del Imperio de Vollachia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Vincent Vollachia (Vincent Abellux)",
+        "Chicha Gold",
+        "Berstetz Fondalf",
+        "Zikr Osman"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caballero sirve a Priscilla Bariel y lleva un casco de hierro que cubre su rostro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Aldebaran (Al)",
+        "Heinkel Astrea",
+        "Julius Juakulius",
+        "Rowan Segmunt"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el nombre del dragón de tierra leal que acompaña a Subaru Natsuki?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Patrasche",
+        "Furka",
+        "Diana",
+        "Gisela"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué bruja aparece ante Emilia y Petelgeuse en el pasado del Bosque de Elior?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pandora, la Bruja de la Vanidad",
+        "Hector, el Brujo de la Melancolía",
+        "Satella, la Bruja de la Envidia",
+        "Echidna, la Bruja de la Avaricia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el nombre del Brujo que atacó el Santuario en el pasado del cual huyó Echidna?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hector, el Brujo de la Melancolía",
+        "Flugel, el Sabio",
+        "Alec Hoshin",
+        "Reid Astrea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el pecado capital de Sirius en el Culto de la Bruja?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ira",
+        "Soberbia",
+        "Avaricia",
+        "Envidia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué habilidad especial utiliza Sirius Romanée-Conti para manipular las emociones de las personas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Transmisión de Emociones y Daño",
+        "Control Mental por Miedo",
+        "Telepatía Colectiva",
+        "Ilusión de Odio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué objeto usa Subaru para derrotar al Gran Conejo en el Arco 4?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La magia Al Shamak de Beatrice para enviarlos a otra dimensión",
+        "La espada de Reinhard",
+        "El fuego de Roswaal",
+        "Una maldición masiva de la Bruja"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el hermano menor de Julius Juakulius?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Joshua Juakulius",
+        "Salum Juakulius",
+        "Ferris Juakulius",
+        "Reid Juakulius"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el nombre verdadero del espíritu guardián de la biblioteca que Shaula confunde con su maestro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Shaula",
+        "Meili",
+        "Daphne",
+        "Lye"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál de los siguientes NO es uno de los tres Grandes Mabeasts creados por Daphne?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El Dragón Negro",
+        "La Ballena Blanca",
+        "El Gran Conejo",
+        "La Serpiente Negra"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué efecto provoca la cortina de niebla de la Ballena Blanca cuando borra a alguien?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Borra la existencia del objetivo del recuerdo de todos",
+        "Convierte al objetivo en piedra",
+        "Drena toda su magia de inmediato",
+        "Envía el alma al dominio de la Bruja"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál de los tres hermanos Arzobispos de la Gula es conocido como 'Gastronomía'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Lye Batenkaitos",
+        "Roy Alphard",
+        "Louis Arneb",
+        "Ley Batenkaitos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué transformación física sufre Subaru durante los eventos en el Imperio de Vollachia debido a una maldición/habilidad?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Se convierte en un niño pequeño",
+        "Se convierte en un espíritu",
+        "Se convierte en una bestia demoníaca",
+        "Pierde la vista completamente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la tribu de guerreras que vive en la Selva de Buddheim en Vollachia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pueblo de Shudraq",
+        "Tribu del Sol",
+        "Clan de la Espada",
+        "Gente de la Serpiente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la Autoridad del Pecado que obtiene Subaru tras derrotar a Regulus Corneas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Autoridad de la Avaricia (Cor Leonis)",
+        "Autoridad de la Soberbia",
+        "Autoridad de la Gula",
+        "Autoridad de la Lujuria"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué habilidad le permite a Subaru usar 'Cor Leonis'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Detectar la posición de sus aliados y asumir sus cargas físicas o emocionales",
+        "Detener el tiempo de cualquier objeto",
+        "Hacerse invulnerable a todo ataque",
+        "Invocación de sombras para proteger a otros"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Primer Santo de la Espada en la historia de Lugunica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Reid Astrea",
+        "Fargale Astrea",
+        "Wilhelm Astrea",
+        "Theresia Astrea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la forma del espíritu de Anastasia Hoshin cuando toma control de su cuerpo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Echidna del Zorro (Eridna)",
+        "Puck",
+        "Beatriz",
+        "Zarestia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué función cumple el Espejo de las Almas (Soul Mirror) en la historia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Permite la comunicación a larga distancia entre sedes",
+        "Revela la verdadera forma de la Bruja",
+        "Almacena las memorias perdidas",
+        "Detiene las maldiciones de muerte"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el guardián de la quinta planta de la Torre de la Vigía Pléiades?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Shaula",
+        "Reid Astrea",
+        "Volcanica",
+        "Louis Arneb"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Arzobispo de la Lujuria en el Culto de la Bruja?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Capella Emerada Lugunica",
+        "Sirius Romanée-Conti",
+        "Carmilla",
+        "Lye Batenkaitos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué poder aterrador posee Capella Emerada Lugunica?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Metamorfosis y curación extrema propia y ajena",
+        "Absorber las almas de sus enemigos",
+        "Controlar el fuego del dragón",
+        "Borrar nombres y memorias"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la verdadera identidad del 'Hombre Mágala' / 'Al' (Aldebaran)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un persona invocada de la Tierra al igual que Subaru",
+        "Un clon de Roswaal Mathers",
+        "El antiguo Santo de la Espada",
+        "Un espíritu encarnado por Echidna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el pueblo de semihumanos donde creció Garfiel y Frederica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Santuario (Campo de Trial de Echidna)",
+        "Bosque de Elior",
+        "Pueblo de Irlam",
+        "Guaral"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué objeto le entregó Echidna a Subaru durante su primer té de la Bruja?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Fluidos corporales en forma de té (Té de Echidna)",
+        "Un fragmento de cristal mágico",
+        "El Evangelio Verdadero",
+        "Una manzana de la tierra"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el verdadero deseo o meta final de Emilia en la Selección Real?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Obtener la sangre del dragón para descongelar el Bosque de Elior",
+        "Convertirse en la gobernante absoluta de Lugunica",
+        "Eliminar a todos los miembros del Culto de la Bruja",
+        "Vengarse de los elfos que la rechazaron"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la última prueba que deben superar en la Torre de la
