@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Kimetsu no Yaiba",
+  "questions": [
+    {
+      "text": "¿Cómo se llama el protagonista de Kimetsu no Yaiba?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Tanjiro Kamado",
+        "Zenitsu Agatsuma",
+        "Inosuke Hashibira",
+        "Giyu Tomioka"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la hermana de Tanjiro convertida en demonio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Nezuko",
+        "Kanao",
+        "Aoi",
+        "Mitsuri"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de espada usan los cazadores de demonios?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Espada Nichirin",
+        "Katana de plata",
+        "Espada de obsidiana",
+        "Tanto sagrado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué color es la hoja de la espada de Tanjiro?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Negra",
+        "Azul",
+        "Roja",
+        "Morada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué respiración usa Tanjiro al principio de la serie?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Respiración del Agua",
+        "Respiración del Fuego",
+        "Respiración del Rayo",
+        "Respiración de la Niebla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué respiración domina Zenitsu?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Respiración del Rayo",
+        "Respiración del Trueno Negro",
+        "Respiración del Viento",
+        "Respiración del Sonido"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué respiración inventó Inosuke?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Respiración de la Bestia",
+        "Respiración del Jabalí",
+        "Respiración de la Montaña",
+        "Respiración Salvaje"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué animal es la cabeza/máscara que usa Inosuke?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jabalí",
+        "Oso",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién fue el maestro de entrenamiento de Tanjiro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Urokodaki Sakonji",
+        "Giyu Tomioka",
+        "Sengoku",
+        "Tengen Uzui"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el examen para convertirse en cazador?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Selección Final",
+        "Examen Hashira",
+        "Prueba de la Espada",
+        "Rito Fujikasane"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuántos días debe sobrevivir en la montaña durante la Selección Final?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "7 días",
+        "3 días",
+        "10 días",
+        "30 días"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué demonio de manos gigantes mató a Sabito años atrás?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El demonio de las manos",
+        "Enmu",
+        "Rui",
+        "Kyogai"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Muzan Kibutsuji?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El rey de los demonios, el primer demonio",
+        "El fundador de los cazadores",
+        "El hermano de Tanjiro",
+        "El Pilar Oscuro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuántas Lunas Superiores existen en el ejército de Muzan?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "6",
+        "9",
+        "12",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la Luna Superior 1?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Kokushibo",
+        "Doma",
+        "Akaza",
+        "Hantengu"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la Luna Superior 2?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Doma",
+        "Kokushibo",
+        "Gyokko",
+        "Nakime"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la Luna Superior 3 que peleó contra Rengoku?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Akaza",
+        "Doma",
+        "Gyutaro",
+        "Enmu"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién asesinó a la familia de Tanjiro?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Muzan Kibutsuji",
+        "Akaza",
+        "Rui",
+        "El demonio de las manos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Nezuko duerme largo tiempo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Para recuperar energía sin comer humanos",
+        "Porque le da sueño de noche",
+        "Castigo de los pilares",
+        "Está herida siempre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién creó la Respiración del Sol?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Yoriichi Tsugikuni",
+        "Muzan Kibutsuji",
+        "Urokodaki",
+        "Kokushibo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué máscara usa Tanjiro en el entrenamiento?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Máscara de zorro",
+        "Máscara de jabalí",
+        "Máscara de tengu",
+        "Máscara de demonio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar del Agua?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Giyu Tomioka",
+        "Sanemi Shinazugawa",
+        "Obanai Iguro",
+        "Muichiro Tokito"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar de la Llama?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Kyojuro Rengoku",
+        "Tengen Uzui",
+        "Gyomei Himejima",
+        "Giyu Tomioka"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar del Insecto?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Shinobu Kocho",
+        "Mitsuri Kanroji",
+        "Kanao Tsuyuri",
+        "Aoi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar del Sonido?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Tengen Uzui",
+        "Zenitsu Agatsuma",
+        "Uzui's brother",
+        "Sanemi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar de la Niebla?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Muichiro Tokito",
+        "Giyu Tomioka",
+        "Obanai Iguro",
+        "Genya"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar de la Serpiente?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Obanai Iguro",
+        "Iguro's twin",
+        "Muichiro Tokito",
+        "Tengen Uzui"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar del Viento?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sanemi Shinazugawa",
+        "Inosuke Hashibira",
+        "Tengen Uzui",
+        "Giyu Tomioka"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar del Amor?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mitsuri Kanroji",
+        "Shinobu Kocho",
+        "Kanao Tsuyuri",
+        "Aoi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el Pilar de la Roca?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gyomei Himejima",
+        "Tengen Uzui",
+        "Kyojuro Rengoku",
+        "Sanemi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuántos Hashira (Pilares) hay en total?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "9",
+        "7",
+        "12",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es considerado el Hashira más fuerte físicamente?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gyomei Himejima",
+        "Sanemi",
+        "Giyu",
+        "Rengoku"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Contra quién peleó Rengoku en el Arco del Tren Infinito?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Akaza",
+        "Doma",
+        "Enmu",
+        "Gyutaro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el demonio principal del Arco del Tren Infinito?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Enmu",
+        "Akaza",
+        "Rui",
+        "Kyogai"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué se fusionó Enmu para atacar a los pasajeros?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "En el propio tren",
+        "En el puente",
+        "En un barco",
+        "En el bosque"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué Lunas Superiores aparecen en el Arco del Distrito de Entretenimiento?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gyutaro y Daki (Luna 6)",
+        "Doma y Akaza",
+        "Hantengu y Gyokko",
+        "Enmu y Rui"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué relación tienen Gyutaro y Daki?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hermanos",
+        "Esposos",
+        "Maestro y alumno",
+        "No se conocían"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace especial a las espadas de Inosuke?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Las rompe a mordiscos para afilarlas y usa dos a la vez",
+        "Son de oro puro",
+        "Están malditas",
+        "Fueron forjadas por un demonio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el herrero encargado de la espada de Tanjiro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hotaru Haganezuka",
+        "Tetsuo",
+        "Kozo Kanamori",
+        "Gyomei"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué demonio ataca la Aldea de los Herreros (Arco de la Aldea)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hantengu (Luna 4)",
+        "Akaza",
+        "Doma",
+        "Rui"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué logro único obtiene Nezuko en la Aldea de los Herreros?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Puede resistir la luz del sol",
+        "Aprende a hablar",
+        "Vuelve humana de inmediato",
+        "Obtiene una espada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la demonio médica que ayuda a Tanjiro?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tamayo",
+        "Nezuko",
+        "Muzan",
+        "Yushiro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Yushiro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El asistente devoto de Tamayo",
+        "Hermano de Tanjiro",
+        "Un Hashira",
+        "Un herrero"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace Genya Shinazugawa en combate?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Come pedazos de demonios para ganar sus poderes",
+        "Usa solo puños",
+        "Canta para aturdir",
+        "Invoca cuervos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué relación tiene Genya con Sanemi?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Son hermanos",
+        "Son primos",
+        "Son rivales de la escuela",
+        "No se conocen"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Sanemi apuñala a Nezuko frente a todos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Para probar que no atacaría a un humano",
+        "Porque es su enemiga",
+        "Un accidente",
+        "Para curarla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué color es el uniforme estándar del Cuerpo de Exterminio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Negro",
+        "Blanco",
+        "Verde",
+        "Rojo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué animal envía al cazador para comunicar misiones?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un cuervo kasugai",
+        "Un búho",
+        "Un gato",
+        "Un zorro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A quién teme Muzan Kibutsuji desde hace siglos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "A Yoriichi Tsugukuni y a la Respiración del Sol",
+        "A los Hashira",
+        "A Nezuko",
+        "Al gobierno"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la hermana mayor de Shinobu, asesinada por Doma?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Kanae Kocho",
+        "Kanao",
+        "Aoi",
+        "Makomo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué respiración usa Kanao Tsuyuri?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Respiración de la Flor",
+        "Respiración del Insecto",
+        "Respiración del Viento",
+        "Respiración del Agua"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Para qué usa Kanao la moneda al inicio de la serie?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Para decidir sus acciones",
+        "Para pagar el tren",
+        "Es un amuleto",
+        "Juego con hermanas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Aoi en la Mansión de las Mariposas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La sanadora encargada de los heridos",
+        "Una Hashira",
+        "Hermana de Nezuko",
+        "Espía de Muzan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué debía cortar Tanjiro en el entrenamiento de Urokodaki?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Una roca gigante",
+        "Una cascada",
+        "Un árbol milenario",
+        "Una vela al viento"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quiénes ayudan espiritualmente a Tanjiro a cortar la roca?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sabito y Makomo",
+        "Urokodaki y Giyu",
+        "Nezuko y Zenitsu",
+        "Dos cuervos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fue de la familia de Inosuke?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Fue criado por jabalíes en la montaña",
+        "Son herreros",
+        "Fueron asesinados por Rui",
+        "Viven en la ciudad"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué posición ocupa Rui dentro de las Lunas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Luna Inferior 5",
+        "Luna Superior 3",
+        "Luna Inferior 1",
+        "No era Luna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué técnica usa Muzan para controlar a los demonios?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Puede destruirlos con su sangre desde lejos",
+        "Canto hipnótico",
+        "Sellos de papel",
+        "Veneno en el aire"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la meta principal de Tanjiro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Volver a Nezuko humana y vengar a su familia",
+        "Convertirse en Hashira en 1 año",
+        "Matar a Kokushibo",
+        "Fundar un dojo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca especial despierta Tanjiro en combates decisivos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La marca del cazador (llamas rojizas en el cuerpo)",
+        "Un tercer ojo",
+        "Colmillos",
+        "Alas de fuego"
+      ],
+      "correct": 0
+    }
+  ]
+}
