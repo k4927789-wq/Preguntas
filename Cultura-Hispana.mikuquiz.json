@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Cultura Hispana",
+  "questions": [
+    {
+      "text": "¿Cuál es el plato típico de Ecuador según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Encebollado",
+        "Sancocho",
+        "Succotash",
+        "Pastel de Choclo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de Nicaragua según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bandeja Paisa",
+        "Silpancho",
+        "Gallo Pinto",
+        "Chivito"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Venezuela según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Succotash",
+        "Silpancho",
+        "Arepa",
+        "Sancocho"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Cuba según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ropa Vieja",
+        "Gallo Pinto",
+        "Asado",
+        "Mofongo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de Colombia según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Tacos",
+        "Mofongo",
+        "Bandeja Paisa",
+        "La Bandera"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Argentina según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Asado",
+        "Pastel de Choclo",
+        "Succotash",
+        "Arepa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de Paraguay según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sopa Paraguaya",
+        "Bandeja Paisa",
+        "Tacos",
+        "Succotash"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de República Dominicana según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La Bandera",
+        "Chivito",
+        "Pupusas",
+        "Gallo Pinto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de Perú según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Chivito",
+        "Encebollado",
+        "Pupusas",
+        "Ceviche"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el plato típico de Bolivia según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Silpancho",
+        "Sopa Paraguaya",
+        "Mofongo",
+        "La Bandera"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de Chile según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Arepa",
+        "Sopa Paraguaya",
+        "Pastel de Choclo",
+        "Ceviche"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Costa Rica según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gallo Pinto",
+        "Pupusas",
+        "Paella",
+        "Sopa Paraguaya"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de El Salvador según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pupusas",
+        "Encebollado",
+        "Pastel de Choclo",
+        "Gallo Pinto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de España según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ceviche",
+        "Gallo Pinto",
+        "Paella",
+        "Baleadas"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Guinea Ecuatorial según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Arepa",
+        "Encebollado",
+        "Succotash",
+        "Baleadas"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Guatemala según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Asado",
+        "Chivito",
+        "Pepián",
+        "Pupusas"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de Honduras según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ropa Vieja",
+        "Baleadas",
+        "Sopa Paraguaya",
+        "Gallo Pinto"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el plato típico de Panamá según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sancocho",
+        "Asado",
+        "Paella",
+        "Gallo Pinto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el plato típico de Puerto Rico según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pupusas",
+        "Mofongo",
+        "Pepián",
+        "Ceviche"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el plato típico de Uruguay según la página de cultura?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La Bandera",
+        "Sancocho",
+        "Chivito",
+        "Mofongo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el plato típico de México según la página de cultura?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pepián",
+        "Silpancho",
+        "Gallo Pinto",
+        "Tacos"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Ecuador?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El Tamborito",
+        "Balele",
+        "Bomba y Plena",
+        "Pasacalle"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Nicaragua?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Palo de Mayo",
+        "Marinera",
+        "Merengue",
+        "Danza Garífuna (Punta)"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Venezuela?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El Tamborito",
+        "Pasacalle",
+        "Jarabe Tapatío",
+        "Joropo"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Cuba?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Candombe",
+        "Salsa / Danzón",
+        "Bomba y Plena",
+        "Polca Paraguaya"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Colombia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El Xuc",
+        "Cumbia",
+        "Polca Paraguaya",
+        "Merengue"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Argentina?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Candombe",
+        "Tango",
+        "Joropo",
+        "Danza de los Venados"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Paraguay?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Merengue",
+        "Bomba y Plena",
+        "Polca Paraguaya",
+        "Candombe"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de República Dominicana?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Cumbia",
+        "Danza de los Venados",
+        "El Tamborito",
+        "Merengue"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Perú?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Marinera",
+        "Tango",
+        "Tinku",
+        "La Cueca"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Bolivia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Polca Paraguaya",
+        "Tinku",
+        "Punto Guanacasteco",
+        "El Palo de Mayo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Chile?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Salsa / Danzón",
+        "Pasacalle",
+        "La Cueca",
+        "Danza Garífuna (Punta)"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Costa Rica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Punto Guanacasteco",
+        "Salsa / Danzón",
+        "Danza de los Venados",
+        "Pasacalle"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de El Salvador?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Salsa / Danzón",
+        "El Xuc",
+        "Balele",
+        "Flamenco"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de España?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Polca Paraguaya",
+        "Flamenco",
+        "Bomba y Plena",
+        "Marinera"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Guinea Ecuatorial?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Flamenco",
+        "Candombe",
+        "Bomba y Plena",
+        "Balele"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Guatemala?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Danza de los Venados",
+        "Joropo",
+        "El Palo de Mayo",
+        "Tinku"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Honduras?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La Cueca",
+        "Bomba y Plena",
+        "Danza Garífuna (Punta)",
+        "Cumbia"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Panamá?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Marinera",
+        "El Tamborito",
+        "Balele",
+        "Salsa / Danzón"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Puerto Rico?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Polca Paraguaya",
+        "Bomba y Plena",
+        "Tinku",
+        "Danza de los Venados"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de Uruguay?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Candombe",
+        "Bomba y Plena",
+        "Danza Garífuna (Punta)",
+        "Cumbia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el ritmo/baile tradicional de México?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jarabe Tapatío",
+        "Balele",
+        "El Xuc",
+        "Danza Garífuna (Punta)"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué figura histórica representa a Ecuador en la página? (Atleta olímpico de marcha)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Agustín Pío Barrios",
+        "Jefferson Pérez",
+        "Mario Benedetti",
+        "Roberto Clemente"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué figura histórica representa a Nicaragua en la página? (Poeta máximo del Modernismo)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Rubén Darío",
+        "Juan Tomás Ávila Laurel",
+        "Mario Vargas Llosa",
+        "Celia Cruz"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué figura histórica representa a Venezuela en la página? (El Libertador de América)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mario Vargas Llosa",
+        "Juan Tomás Ávila Laurel",
+        "Simón Bolívar",
+        "Roberto Clemente"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué figura histórica representa a Cuba en la página? (La Guarachera de Cuba)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Rubén Blades",
+        "Pablo Neruda",
+        "Celia Cruz",
+        "Lionel Messi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué figura histórica representa a Colombia en la página? (Cantante e icono pop global)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Juan Luis Guerra",
+        "Shakira",
+        "Mágico González",
+        "Rubén Blades"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué figura histórica representa a Argentina en la página? (Leyenda del fútbol mundial)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Simón Bolívar",
+        "Berta Cáceres",
+        "Keylor Navas",
+        "Lionel Messi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué figura histórica representa a Paraguay en la página? (Compositor y guitarrista clásico)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Agustín Pío Barrios",
+        "Lionel Messi",
+        "Mario Vargas Llosa",
+        "Simón Bolívar"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué figura histórica representa a República Dominicana en la página? (Cantautor y músico multipremiado)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Frida Kahlo",
+        "Juan Luis Guerra",
+        "Keylor Navas",
+        "Miguel Ángel Asturias"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué figura histórica representa a Perú en la página? (Escritor y Premio Nobel de Literatura)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Keylor Navas",
+        "Pablo Neruda",
+        "Mario Vargas Llosa",
+        "Miguel de Cervantes"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué figura histórica representa a Bolivia en la página? (Político y expresidente)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mario Vargas Llosa",
+        "Evo Morales",
+        "Agustín Pío Barrios",
+        "Juan Luis Guerra"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué figura histórica representa a Chile en la página? (Escritor y Premio Nobel de Literatura)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pablo Neruda",
+        "Mario Vargas Llosa",
+        "Miguel de Cervantes",
+        "Juan Tomás Ávila Laurel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué figura histórica representa a Costa Rica en la página? (Futbolista / guardameta)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pablo Neruda",
+        "Keylor Navas",
+        "Jefferson Pérez",
+        "Agustín Pío Barrios"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué figura histórica representa a El Salvador en la página? (Leyenda del fútbol)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Keylor Navas",
+        "Berta Cáceres",
+        "Miguel de Cervantes",
+        "Mágico González"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué figura histórica representa a España en la página? (Escritor de Don Quijote de la Mancha)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Miguel Ángel Asturias",
+        "Lionel Messi",
+        "Evo Morales",
+        "Miguel de Cervantes"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué figura histórica representa a Guinea Ecuatorial en la página? (Escritor y novelista)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Agustín Pío Barrios",
+        "Juan Tomás Ávila Laurel",
+        "Frida Kahlo",
+        "Keylor Navas"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué figura histórica representa a Guatemala en la página? (Escritor y Premio Nobel de Literatura)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Juan Tomás Ávila Laurel",
+        "Simón Bolívar",
+        "Miguel Ángel Asturias",
+        "Agustín Pío Barrios"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué figura histórica representa a Honduras en la página? (Activista ambiental e indígena)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Miguel Ángel Asturias",
+        "Juan Tomás Ávila Laurel",
+        "Berta Cáceres",
+        "Mario Benedetti"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué figura histórica representa a Panamá en la página? (Músico de salsa y actor)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Miguel de Cervantes",
+        "Juan Luis Guerra",
+        "Mágico González",
+        "Rubén Blades"
+      ],
+      "correct": 3
+    }
+  ]
+}
