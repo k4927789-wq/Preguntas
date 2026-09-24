@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Caricaturas Famosas",
+  "questions": [
+    {
+      "text": "¿Cómo se llama el ratón más famoso de Disney?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mickey Mouse",
+        "Jerry",
+        "Pinky",
+        "Topo Gigio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué come Popeye para hacerse súper fuerte?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Espinacas",
+        "Zanahorias",
+        "Plátanos",
+        "Manzanas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el perro mascota de Mickey Mouse?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pluto",
+        "Goofy",
+        "Odie",
+        "Spike"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura vive en una piña debajo del mar?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bob Esponja",
+        "Nemo",
+        "Coraje",
+        "Don Gato"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la estrella de mar mejor amiga de Bob Esponja?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Patricio",
+        "Calamardo",
+        "Arenita",
+        "Perlita"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué gato persigue sin descanso al ratón Jerry?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tom",
+        "Silvestre",
+        "Garfield",
+        "Félix"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el villano que quiere atrapar a los Pitufos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gargamel",
+        "Cruella de Vil",
+        "Scar",
+        "Plankton"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué animal es Garfield?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gato",
+        "Perro",
+        "Hámster",
+        "Mapache"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la comida favorita de Garfield?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Lasaña",
+        "Pizza",
+        "Espinacas",
+        "Hamburguesas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llaman los tres sobrinos de Pato Donald?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hugo, Paco y Luis",
+        "Pedro, Pablo y Paco",
+        "Juan, José y Jorge",
+        "Tim, Tom y Tam"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En qué ciudad viven Los Simpson?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Springfield",
+        "Simpsonville",
+        "Shelbyville",
+        "Capital City"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde trabaja Homer Simpson?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En la planta nuclear",
+        "En una escuela",
+        "En un bar",
+        "En el ayuntamiento"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el dueño del Crustáceo Cascarudo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Don Cangrejo",
+        "Calamardo",
+        "Plankton",
+        "Larry"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué come el Comegalletas de Sésamo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Galletas",
+        "Helado",
+        "Sopa",
+        "Dulces"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué frase icónica dice Bugs Bunny?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "¿Qué hay de nuevo, viejo?",
+        "¡Arriba, arriba, ándale!",
+        "¡Meep meep!",
+        "¡Sufferin' succotash!"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el pato de los Looney Tunes?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Lucas",
+        "Pato Lucas",
+        "Donald",
+        "Howard"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué caricatura tiene a un niño genio con un laboratorio secreto detrás de su cuarto?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Laboratorio de Dexter",
+        "Johnny Bravo",
+        "Coraje",
+        "Ben 10"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la hermana de Dexter que siempre entra a su laboratorio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Dee Dee",
+        "Mee Mee",
+        "Lee Lee",
+        "Dolly"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué grupo de niños resuelve misterios junto a un gran danés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Scooby-Doo y sus amigos",
+        "Los Pitufos",
+        "Rugrats",
+        "Los Chicos del Barrio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el amigo de Shaggy (Sammy) que siempre tiene hambre?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Scooby-Doo",
+        "Fred",
+        "Vilma",
+        "Dexter"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué frase activa los poderes de las Chicas Superpoderosas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "¡Azúcar, flores y muchos colores!",
+        "¡Poder total!",
+        "¡Chicas al ataque!",
+        "¡Fuerza máxima!"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la Chica Superpoderosa líder con moño rojo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bombón",
+        "Burbuja",
+        "Bellota",
+        "Buttercup"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura sigue a un perro rosado que protege a Muriel?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Coraje, el Perro Cobarde",
+        "Scooby-Doo",
+        "Odie",
+        "Snoopy"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el chico musculoso y rubio que coquetea con chicas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Johnny Bravo",
+        "Samurai Jack",
+        "Dexter",
+        "Rigby"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué gato robótico viene del futuro para ayudar a Nobita?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Doraemon",
+        "Gatomón",
+        "Garfield",
+        "Kero"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De dónde viene Doraemon?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Del siglo XXII (futuro)",
+        "Del espacio",
+        "Del océano",
+        "De una isla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura de Disney tiene a una sirena llamada Ariel?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La Sirenita",
+        "Moana",
+        "Frozen",
+        "Enredados"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el príncipe de la Sirenita?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Eric",
+        "Adam",
+        "Felipe",
+        "Naveen"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura de Disney tiene a un león llamado Simba?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Rey León",
+        "Tarzán",
+        "Bambi",
+        "Dumbo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el tío malvado de Simba?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Scar",
+        "Mufasa",
+        "Zazú",
+        "Banzai"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a un niño que nunca crece y vuela?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Peter Pan",
+        "Pinocho",
+        "Aladdin",
+        "Hércules"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el hada acompañante de Peter Pan?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Campanita",
+        "Azulina",
+        "Madrina",
+        "Rosetta"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué ogro verde es el protagonista de una película de DreamWorks?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Shrek",
+        "Fiona",
+        "Grú",
+        "Hércules"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el burro parlante amigo de Shrek?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Asno",
+        "Pinocho",
+        "Gato con Botas",
+        "Lobo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a cuatro tortugas amantes de la pizza?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Las Tortugas Ninja",
+        "Los Power Rangers",
+        "ThunderCats",
+        "Samurai Jack"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la tortuga Ninja líder que usa katanas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Leonardo",
+        "Rafael",
+        "Donatello",
+        "Miguel Ángel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura sigue las aventuras de unas gemelas llamadas Mabel y Dipper?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gravity Falls",
+        "El Laboratorio de Dexter",
+        "Ben 10",
+        "Steven Universe"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el tío de Dipper y Mabel en Gravity Falls?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tío Stan",
+        "Tío Ford",
+        "Tío Bob",
+        "Tío Rick"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a un niño que se transforma en 10 héroes alienígenas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ben 10",
+        "Bakugan",
+        "Beyblade",
+        "Pokémon"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la prima de Ben en 'Ben 10'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gwen",
+        "Kai",
+        "Emily",
+        "Julie"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a un chico rubio llamado Finn y su perro mágico?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hora de Aventura",
+        "Gravity Falls",
+        "Un show más",
+        "Clarence"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el perro amarillo que estira su cuerpo en 'Hora de Aventura'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jake",
+        "Finn",
+        "Beemo",
+        "Rey Helado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a un ratón genio y a su compañero torpe que quieren conquistar el mundo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Pinky y Cerebro",
+        "Tom y Jerry",
+        "Chip y Dale",
+        "Los Animaniacs"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué quieren hacer Pinky y Cerebro cada noche?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tratar de conquistar el mundo",
+        "Dormir",
+        "Robar queso",
+        "Salvar el laboratorio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el pájaro carpintero de cresta roja que se ríe 'ja-ja-ja'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El Pájaro Loco",
+        "Piolín",
+        "Zazú",
+        "Woodstock"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura está ambientada en la edad de piedra con la familia Picapiedra?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Los Picapiedra",
+        "Los Supersónicos",
+        "Scooby-Doo",
+        "Johnny Bravo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el dinosaurio mascota de los Picapiedra?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Dino",
+        "Rex",
+        "Piedro",
+        "Bronto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura futurista tiene a la familia Sónico (Jetsons)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Los Supersónicos",
+        "Los Picapiedra",
+        "Futurama",
+        "Steven Universe"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a un oso amarillo que ama la miel llamado Winnie Pooh?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Winnie Pooh",
+        "Paddington",
+        "Yogi",
+        "Oso Yogui"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el tigre que rebota en 'Winnie Pooh'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tigger",
+        "Piglet",
+        "Igor",
+        "Rabbit"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a unos bebés que hablan entre ellos: Tommy, Carlitos y Angelica?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Rugrats (Aventuras en Pañales)",
+        "Muppet Babies",
+        "Los Simpsons",
+        "La Familia Proud"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la prima consentida que molesta a los bebés en Rugrats?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Angelica",
+        "Susie",
+        "Kimi",
+        "Lil"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a un cangrejo rojo obsesionado con el dinero llamado Don Cangrejo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Bob Esponja",
+        "Sandy",
+        "Patricio",
+        "Calamardo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el mejillón hija de Don Cangrejo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Perlita",
+        "Sandy",
+        "Karen",
+        "Señora Puff"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a una niña exploradora con un mono llamado Botas?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Dora la Exploradora",
+        "Go, Diego, Go!",
+        "Ni Hao, Kai-Lan",
+        "Blue's Clues"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el zorro tramposo de 'Dora la Exploradora'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Zorro",
+        "Swiper",
+        "Tico",
+        "Benny"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué caricatura tiene a un pony púrpura llamada Twilight Sparkle?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "My Little Pony",
+        "Unicornio Mágico",
+        "Ponyo",
+        "Rainbow Brite"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la princesa que gobierna Equestria en 'My Little Pony'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Princesa Celestia",
+        "Princesa Luna",
+        "Twilight",
+        "Cadence"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué caricatura tiene a unos osos hermanos: Pardo, Panda y Polar?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Escandalosos",
+        "Masha y el Oso",
+        "Oso Yogui",
+        "Bernard"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el vecino amable de los Simpson que dice 'Hola, hola'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ned Flanders",
+        "Moe Szyslak",
+        "Barney Gómez",
+        "Apu Nahasapeemapetilon"
+      ],
+      "correct": 0
+    }
+  ]
+}
