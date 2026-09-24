@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Matemáticas V2",
+  "questions": [
+    {
+      "text": "Aplica la propiedad distributiva: (1 + 9x)·(−10)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−90x + 10",
+        "90x − 10",
+        "−10x − 90",
+        "−90x − 10"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aplica la propiedad distributiva: 4(3r − 8)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "12r − 32",
+        "7r − 32",
+        "12r + 32",
+        "12r − 8"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aplica la propiedad distributiva: −3(2x + 5)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−6x + 15",
+        "6x − 15",
+        "−5x − 6",
+        "−6x − 15"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aplica la propiedad distributiva: 5(−2n + 7)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−10n + 35",
+        "−10n − 35",
+        "−35n + 10",
+        "10n + 35"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aplica la propiedad distributiva: −2(6k − 9)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−12k − 18",
+        "−12k + 18",
+        "12k + 18",
+        "−18k + 12"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aplica la propiedad distributiva: 7(3x − 4)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "10x − 28",
+        "21x + 28",
+        "21x − 11",
+        "21x − 28"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Aplica la propiedad distributiva: −4(5 + 2m)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−8m − 9",
+        "−20 − 8m",
+        "20 − 8m",
+        "−20 + 8m"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aplica la propiedad distributiva: 6(−x + 3)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−6x − 18",
+        "−6x + 18",
+        "−6x + 9",
+        "6x + 18"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aplica la propiedad distributiva: −(8y − 3)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−8y + 3",
+        "−8y − 3",
+        "8y − 3",
+        "8y + 3"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aplica la propiedad distributiva: 9(4 − 5b)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−45b − 36",
+        "36 − 45b",
+        "45b − 36",
+        "36 + 45b"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aplica la propiedad distributiva: −5(−3 + 6r)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−15 − 30r",
+        "15 − 30r",
+        "−30r − 15",
+        "15 + 30r"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aplica la propiedad distributiva: 3(7a + 2)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "10a + 6",
+        "21a + 5",
+        "21a + 6",
+        "21a − 6"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Simplifica: −6k + 7k",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "13k",
+        "−13k",
+        "k",
+        "−k"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Simplifica: 12r − 8 − 12",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "12r + 20",
+        "12r − 20",
+        "−20r + 12",
+        "12r − 4"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Simplifica: n − 10 + 9n − 3",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−8n − 13",
+        "10n − 7",
+        "10n + 13",
+        "10n − 13"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Simplifica: −4x − 10x",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "6x",
+        "14x",
+        "−14x",
+        "−6x"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Simplifica: −r − 10r",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−11r",
+        "11r",
+        "−9r",
+        "9r"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Simplifica: −2x + 11 + 6x",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "4x − 11",
+        "−4x + 11",
+        "4x + 11",
+        "8x + 11"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Simplifica: 11r − 12r",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−23r",
+        "r",
+        "23r",
+        "−r"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Simplifica: −v + 12v",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "13v",
+        "11v",
+        "−13v",
+        "−11v"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Simplifica: −8x − 11x",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "19x",
+        "−19x",
+        "−3x",
+        "3x"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Simplifica: 5x + 3 − 9x + 7",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−4x + 10",
+        "4x + 10",
+        "−14x + 10",
+        "14x + 10"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Simplifica: −3n + 8 + 3n",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "8n",
+        "−8",
+        "3n + 8",
+        "8"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Simplifica: 7y − 2y + 4 − 9",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "5y + 5",
+        "5y − 5",
+        "9y − 5",
+        "5y − 13"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de v?  v/7 = 8",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "1",
+        "15",
+        "56",
+        "64"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de a?  a + 11 = 20",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "11",
+        "31",
+        "9",
+        "−9"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de x?  −104 = 8x",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−96",
+        "−13",
+        "13",
+        "96"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de b?  14b = −56",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "42",
+        "−42",
+        "−4",
+        "4"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de b?  −6 = b/18",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−24",
+        "108",
+        "−3",
+        "−108"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Valor de n?  10n = 40",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "4",
+        "−4",
+        "400",
+        "30"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Valor de v?  v/8 = 2",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "6",
+        "4",
+        "16",
+        "10"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de k?  16 = k/11",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "27",
+        "5",
+        "1760",
+        "176"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Valor de x?  −15x = 0",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−15",
+        "0",
+        "1",
+        "15"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de x?  −17x = −204",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "187",
+        "−187",
+        "12",
+        "−12"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de n?  21 = −7n",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−14",
+        "−3",
+        "14",
+        "3"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de m?  m/4 = −13",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−52",
+        "−9",
+        "52",
+        "−17"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Valor de k?  −126 = 14k",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−112",
+        "−140",
+        "−9",
+        "9"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de x?  −143 = −11x",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "13",
+        "−13",
+        "132",
+        "−132"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Valor de x?  x/6 = −7",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−13",
+        "−42",
+        "−1",
+        "42"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de x?  9 + x = −5",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "4",
+        "−4",
+        "14",
+        "−14"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Resuelve: ((−3)×(10+(−7)))² ÷ 3 − (−9)²",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "54",
+        "27",
+        "−27",
+        "−54"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Resuelve: (−5)² − 3 × 4",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "7",
+        "13",
+        "−7",
+        "−13"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Resuelve: −8 + 6 × (2 − 7)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "30",
+        "−30",
+        "38",
+        "−38"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Resuelve: 4 − (−3)² × 2",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "14",
+        "10",
+        "−10",
+        "−14"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Resuelve: (12 ÷ (−4)) + 5 × 3",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "15",
+        "9",
+        "12",
+        "−12"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Resuelve: −2 × (8 + (−3)²)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−22",
+        "34",
+        "−11",
+        "−34"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Resuelve: 30 − 6 × (9 − 12)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "12",
+        "−48",
+        "−12",
+        "48"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Resuelve: (−7 + 3)² ÷ 4 − 5",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "1",
+        "−1",
+        "−11",
+        "11"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Resuelve: 5 × (−2)³ + 20",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−20",
+        "60",
+        "20",
+        "−40"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Resuelve: 18 ÷ (−9) × (−2)",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "4",
+        "−1",
+        "1",
+        "−4"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Resuelve: −3² + 4 × 5  (ojo: el cuadrado solo es del 3)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "91",
+        "11",
+        "−91",
+        "−11"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Resuelve: 40 − (−6)²",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "76",
+        "−4",
+        "4",
+        "34"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Valor de n?  3n − 5 = −8(6 + 5n)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "−43",
+        "−1",
+        "1",
+        "43"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de x?  −20 = −4x − 6x",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "10",
+        "2",
+        "−10",
+        "−2"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de a?  a + 5 = −5a + 5",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "0",
+        "−5",
+        "1",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Valor de x?  4x − 3 = 2x + 11",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "14",
+        "−7",
+        "4",
+        "7"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Valor de x?  6(x − 2) = 3x + 12",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "4",
+        "8",
+        "2",
+        "−8"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de x?  7x + 4 = −3x + 24",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−2",
+        "20",
+        "2",
+        "10"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Aplica la propiedad distributiva: −7(2 − 4x)",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "14 + 28x",
+        "−14 + 28x",
+        "−14 − 28x",
+        "−28x − 14"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Valor de x?  −5x + 3 = 23",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "−5",
+        "5",
+        "−4",
+        "4"
+      ],
+      "correct": 2
+    }
+  ]
+}
