@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Inglés: Familia",
+  "questions": [
+    {
+      "text": "¿Qué significa \"the dad / the father\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el padrastro",
+        "el papá / el padre",
+        "la sobrina",
+        "el hijo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"la mamá / la madre\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the mom / the mother",
+        "the brother",
+        "the uncle",
+        "the grandfather / the grandpa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the brother\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el hermano",
+        "el abuelo",
+        "el esposo",
+        "la madrastra"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"la hermana\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the son",
+        "the uncle",
+        "the wife",
+        "the sister"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the grandfather / the grandpa\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el abuelo",
+        "el nieto",
+        "la abuela",
+        "el bebé"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"la abuela\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the aunt",
+        "the uncle",
+        "the grandmother / the grandma",
+        "the grandson"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"the uncle\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el tío",
+        "la tía",
+        "el nieto",
+        "la madrastra"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"la tía\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the aunt",
+        "the husband",
+        "the daughter",
+        "the dad / the father"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the cousin\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el/la primo(a)",
+        "el abuelo",
+        "el hijo",
+        "el hermano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"el hijo\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the nephew",
+        "the son",
+        "the brother",
+        "the daughter"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"the daughter\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "la abuela",
+        "el sobrino",
+        "los gemelos",
+        "la hija"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"el sobrino\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the nephew",
+        "the mom / the mother",
+        "the cousin",
+        "the dad / the father"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the niece\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "la esposa",
+        "la madrastra",
+        "el sobrino",
+        "la sobrina"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"el esposo\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the husband",
+        "the grandmother / the grandma",
+        "the baby",
+        "the mom / the mother"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the wife\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el bebé",
+        "el sobrino",
+        "la esposa",
+        "el padrastro"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"el bebé\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the baby",
+        "the sister",
+        "the wife",
+        "the nephew"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the twins\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "los gemelos",
+        "el tío",
+        "el hermano",
+        "la hija"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"el padrastro\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the cousin",
+        "the stepmother",
+        "the stepfather",
+        "the brother"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"the stepmother\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el hijo",
+        "la madrastra",
+        "el hermano",
+        "la abuela"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"el nieto\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the grandson",
+        "the grandmother / the grandma",
+        "the mom / the mother",
+        "the baby"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the dad / the father\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el hermano",
+        "el papá / el padre",
+        "el/la primo(a)",
+        "la sobrina"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"la mamá / la madre\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the stepmother",
+        "the grandmother / the grandma",
+        "the brother",
+        "the mom / the mother"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the brother\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "la esposa",
+        "el nieto",
+        "el hermano",
+        "la abuela"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"la hermana\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the mom / the mother",
+        "the niece",
+        "the grandmother / the grandma",
+        "the sister"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the grandfather / the grandpa\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el bebé",
+        "el padrastro",
+        "el tío",
+        "el abuelo"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"la abuela\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the daughter",
+        "the twins",
+        "the son",
+        "the grandmother / the grandma"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the uncle\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "la abuela",
+        "la hermana",
+        "el esposo",
+        "el tío"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"la tía\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the aunt",
+        "the twins",
+        "the brother",
+        "the son"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the cousin\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el nieto",
+        "la mamá / la madre",
+        "el/la primo(a)",
+        "la hija"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"el hijo\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the cousin",
+        "the twins",
+        "the son",
+        "the daughter"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"the daughter\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el nieto",
+        "la hija",
+        "el papá / el padre",
+        "los gemelos"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"el sobrino\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the baby",
+        "the nephew",
+        "the son",
+        "the stepfather"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"the niece\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el sobrino",
+        "la sobrina",
+        "el nieto",
+        "la esposa"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"el esposo\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the husband",
+        "the nephew",
+        "the stepfather",
+        "the daughter"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the wife\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el sobrino",
+        "el tío",
+        "la esposa",
+        "los gemelos"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"el bebé\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the husband",
+        "the stepfather",
+        "the grandmother / the grandma",
+        "the baby"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the twins\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el tío",
+        "el papá / el padre",
+        "la abuela",
+        "los gemelos"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"el padrastro\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the grandmother / the grandma",
+        "the mom / the mother",
+        "the aunt",
+        "the stepfather"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the stepmother\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "la madrastra",
+        "el abuelo",
+        "la mamá / la madre",
+        "la hermana"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"el nieto\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the uncle",
+        "the mom / the mother",
+        "the stepfather",
+        "the grandson"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the dad / the father\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el esposo",
+        "el papá / el padre",
+        "la tía",
+        "la hermana"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"la mamá / la madre\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the mom / the mother",
+        "the dad / the father",
+        "the niece",
+        "the husband"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the brother\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el hermano",
+        "la sobrina",
+        "la madrastra",
+        "la mamá / la madre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"la hermana\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the sister",
+        "the stepmother",
+        "the stepfather",
+        "the nephew"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the grandfather / the grandpa\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el nieto",
+        "la sobrina",
+        "la esposa",
+        "el abuelo"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"la abuela\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the grandmother / the grandma",
+        "the husband",
+        "the aunt",
+        "the twins"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the uncle\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el esposo",
+        "el tío",
+        "el papá / el padre",
+        "la sobrina"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"la tía\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the wife",
+        "the husband",
+        "the nephew",
+        "the aunt"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the cousin\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el esposo",
+        "los gemelos",
+        "la hija",
+        "el/la primo(a)"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"el hijo\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the cousin",
+        "the twins",
+        "the daughter",
+        "the son"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"the daughter\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el nieto",
+        "el hijo",
+        "la hija",
+        "los gemelos"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"el sobrino\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the baby",
+        "the nephew",
+        "the sister",
+        "the aunt"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"the niece\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "la sobrina",
+        "el papá / el padre",
+        "el esposo",
+        "los gemelos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"el esposo\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the husband",
+        "the aunt",
+        "the mom / the mother",
+        "the twins"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"the wife\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "los gemelos",
+        "la madrastra",
+        "la esposa",
+        "el hijo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"el bebé\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the grandson",
+        "the son",
+        "the baby",
+        "the daughter"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"the twins\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "los gemelos",
+        "la madrastra",
+        "la esposa",
+        "el sobrino"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"el padrastro\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the stepmother",
+        "the stepfather",
+        "the wife",
+        "the cousin"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"the stepmother\"?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "el papá / el padre",
+        "el padrastro",
+        "el esposo",
+        "la madrastra"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"el nieto\" en inglés?",
+      "img": "https://i.ibb.co/gL3cPHYT/images.png",
+      "answers": [
+        "the son",
+        "the uncle",
+        "the niece",
+        "the grandson"
+      ],
+      "correct": 3
+    }
+  ]
+}
