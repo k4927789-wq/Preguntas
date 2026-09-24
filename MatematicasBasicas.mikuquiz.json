@@ -4,7 +4,7 @@
   "questions": [
     {
       "text": "¿Cuál es el resultado de realizar la operación combinada: 5 + 3 × 4?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "17",
         "32",
@@ -15,7 +15,7 @@
     },
     {
       "text": "¿Cuál es el valor del número pi (π) redondeado a dos cifras decimales?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "3.14",
         "3.16",
@@ -26,7 +26,7 @@
     },
     {
       "text": "¿Cuánto es el 20% de 150?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "30",
         "25",
@@ -37,7 +37,7 @@
     },
     {
       "text": "¿Cuál es el resultado de la fracción equivalente a 3/4 + 2/4?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "5/4",
         "5/8",
@@ -48,7 +48,7 @@
     },
     {
       "text": "Si un triángulo tiene una base de 10 cm y una altura de 6 cm, ¿cuál es su área?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "30 cm²",
         "60 cm²",
@@ -59,7 +59,7 @@
     },
     {
       "text": "¿Cuál es la raíz cuadrada de 144?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "12",
         "14",
@@ -70,7 +70,7 @@
     },
     {
       "text": "¿Cuál es el perímetro de un cuadrado cuyo lado mide 8 cm?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "32 cm",
         "64 cm",
@@ -81,7 +81,7 @@
     },
     {
       "text": "¿Cuál es el resultado de resolver la ecuación de primer grado: 2x - 4 = 10?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "x = 7",
         "x = 3",
@@ -92,7 +92,7 @@
     },
     {
       "text": "¿Cuál es el mínimo común múltiplo (m.c.m.) de los números 4 y 6?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "12",
         "24",
@@ -103,7 +103,7 @@
     },
     {
       "text": "¿Cuánto es (-7) + (-5)?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "-12",
         "12",
@@ -114,7 +114,7 @@
     },
     {
       "text": "¿A cuánto equivale 2 elevado a la quinta potencia (2⁵)?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "32",
         "10",
@@ -125,7 +125,7 @@
     },
     {
       "text": "Si un pantalón cuesta $50 y tiene un descuento del 10%, ¿cuánto se paga en total?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "$45",
         "$40",
@@ -136,7 +136,7 @@
     },
     {
       "text": "¿Cuál es la suma de los ángulos internos de cualquier triángulo?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "180°",
         "360°",
@@ -147,7 +147,7 @@
     },
     {
       "text": "¿Cuál es el máximo común divisor (M.C.D.) de 12 y 18?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "6",
         "3",
@@ -158,7 +158,7 @@
     },
     {
       "text": "¿Cuál es el valor de la expresión: (8 - 3) × (2 + 4)?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "30",
         "26",
@@ -169,7 +169,7 @@
     },
     {
       "text": "¿Cuál es el resultado de simplificar la fracción 12/16 a su forma irreducible?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "3/4",
         "6/8",
@@ -180,7 +180,7 @@
     },
     {
       "text": "¿Cómo se llama un polígono de 6 lados?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "Hexágono",
         "Pentágono",
@@ -191,7 +191,7 @@
     },
     {
       "text": "Si 3 manzanas cuestan $15, ¿cuánto costarán 7 manzanas al mismo precio?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "$35",
         "$30",
@@ -202,7 +202,7 @@
     },
     {
       "text": "¿Cuál es el resultado de la división 0 ÷ 8?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "0",
         "8",
@@ -213,7 +213,7 @@
     },
     {
       "text": "¿Cuál es el número primo más pequeño?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "2",
         "1",
@@ -224,7 +224,7 @@
     },
     {
       "text": "¿Cuál es la fórmula para calcular el área de un círculo?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "π × r²",
         "2 × π × r",
@@ -235,7 +235,7 @@
     },
     {
       "text": "¿Cuánto es (-4) × (-6)?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "24",
         "-24",
@@ -246,7 +246,7 @@
     },
     {
       "text": "Convertir la fracción 1/2 a número decimal:",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "0.5",
         "0.2",
@@ -257,7 +257,7 @@
     },
     {
       "text": "¿Cuál es el valor absoluto de -15? (| -15 |)",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "15",
         "-15",
@@ -268,7 +268,7 @@
     },
     {
       "text": "Si en un salón de 40 estudiantes el 60% son mujeres, ¿cuántas mujeres hay?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "24",
         "20",
@@ -279,7 +279,7 @@
     },
     {
       "text": "¿Cuál es el resultado de multiplicar 0.4 × 0.2?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "0.08",
         "0.8",
@@ -290,7 +290,7 @@
     },
     {
       "text": "¿Cuál es el resultado de elevar cualquier número diferente de cero a la potencia 0?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "1",
         "0",
@@ -301,7 +301,7 @@
     },
     {
       "text": "Un tren viaja a 60 km/h constante. ¿Qué distancia recorre en 3 horas?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "180 km",
         "120 km",
@@ -312,7 +312,7 @@
     },
     {
       "text": "¿Cuál es la media aritmética (promedio) de los números 4, 8, 12 y 16?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "10",
         "8",
@@ -323,7 +323,7 @@
     },
     {
       "text": "¿Qué nombre recibe un triángulo que tiene todos sus lados de diferente longitud?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "Escaleno",
         "Isósceles",
@@ -334,7 +334,7 @@
     },
     {
       "text": "¿Cuál es la solución de la ecuación: 3x + 5 = 20?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "x = 5",
         "x = 3",
@@ -345,7 +345,7 @@
     },
     {
       "text": "¿A cuántos gramos equivalen 2.5 kilogramos?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "2500 g",
         "250 g",
@@ -356,7 +356,7 @@
     },
     {
       "text": "¿Cuál es el resultado de calcular 10²?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "100",
         "20",
@@ -367,7 +367,7 @@
     },
     {
       "text": "¿Qué porcentaje de un total representa la fracción 1/4?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "25%",
         "20%",
@@ -378,7 +378,7 @@
     },
     {
       "text": "¿Cuál es el volumen de un cubo cuyo lado (arista) mide 3 cm?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "27 cm³",
         "9 cm³",
@@ -389,7 +389,7 @@
     },
     {
       "text": "¿Cuál es el resultado de la resta de fracciones: 7/5 - 2/5?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "1",
         "5/10",
@@ -400,7 +400,7 @@
     },
     {
       "text": "¿Cuál es el resultado de 100 ÷ 4 × 2?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "50",
         "12.5",
@@ -411,7 +411,7 @@
     },
     {
       "text": "¿Cuál es el nombre del teorema que relaciona los tres lados de un triángulo rectángulo (a² + b² = c²)?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "Teorema de Pitágoras",
         "Teorema de Tales",
@@ -422,7 +422,7 @@
     },
     {
       "text": "Si se lanza un dado de 6 caras común, ¿cuál es la probabilidad de obtener un número par?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "1/2 (50%)",
         "1/6 (~16.6%)",
@@ -433,7 +433,7 @@
     },
     {
       "text": "¿Cuál es la raíz cúbica de 27?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "3",
         "9",
@@ -444,7 +444,7 @@
     },
     {
       "text": "¿Cuál es el valor numérico de la expresión x² + 2x cuando x = 3?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "15",
         "12",
@@ -455,7 +455,7 @@
     },
     {
       "text": "¿A cuántos minutos equivalen 2.5 horas?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "150 minutos",
         "120 minutos",
@@ -466,7 +466,7 @@
     },
     {
       "text": "¿Cuál es la moda del siguiente conjunto de datos: 2, 5, 5, 6, 8, 8, 8, 9?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "8",
         "5",
@@ -477,7 +477,7 @@
     },
     {
       "text": "¿Cuánto es 15% de 200?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "30",
         "20",
@@ -488,7 +488,7 @@
     },
     {
       "text": "Si un rectángulo mide 12 cm de largo y 5 cm de ancho, ¿cuál es su área?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "60 cm²",
         "34 cm²",
@@ -499,7 +499,7 @@
     },
     {
       "text": "¿Cuál es el inverso multiplicativo (o recíproco) de 4/5?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "5/4",
         "-4/5",
@@ -510,7 +510,7 @@
     },
     {
       "text": "¿Cuál es la diferencia entre 1000 y 347?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "653",
         "663",
@@ -521,7 +521,7 @@
     },
     {
       "text": "En un triángulo rectángulo, los catetos miden 3 cm y 4 cm. ¿Cuánto mide la hipotenusa?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "5 cm",
         "7 cm",
@@ -532,7 +532,7 @@
     },
     {
       "text": "¿Cuál es el suplemento de un ángulo de 70°?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "110°",
         "20°",
@@ -543,7 +543,7 @@
     },
     {
       "text": "¿Qué tipo de ángulo mide exactamente 90°?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "Ángulo recto",
         "Ángulo agudo",
@@ -554,7 +554,7 @@
     },
     {
       "text": "¿Cuál es el resultado de multiplicar 3/5 por 2/3?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "2/5",
         "6/15",
@@ -565,7 +565,7 @@
     },
     {
       "text": "¿Cuál es el valor numérico de 3³?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "27",
         "9",
@@ -576,7 +576,7 @@
     },
     {
       "text": "¿Cuántos metros hay en 3.5 kilómetros?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "3500 m",
         "350 m",
@@ -587,7 +587,7 @@
     },
     {
       "text": "Si x + y = 10 y x = 4, ¿cuál es el valor de y?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "6",
         "14",
@@ -598,7 +598,7 @@
     },
     {
       "text": "¿Cuál es el complemento de un ángulo de 35°?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "55°",
         "145°",
@@ -609,7 +609,7 @@
     },
     {
       "text": "¿Qué número sigue en la secuencia lógica: 2, 4, 8, 16, ...?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "32",
         "24",
@@ -620,7 +620,7 @@
     },
     {
       "text": "¿Cuál es el resultado de dividirse cualquier número distinto de cero por sí mismo?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "1",
         "0",
@@ -631,7 +631,7 @@
     },
     {
       "text": "¿Cuál es el valor decimal equivalente a la fracción 3/5?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "0.6",
         "0.35",
@@ -642,7 +642,7 @@
     },
     {
       "text": "Si una piscina se llena con 4 mangueras en 6 horas, ¿cuánto tardarán 8 mangueras al mismo ritmo?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "3 horas",
         "12 horas",
@@ -653,7 +653,7 @@
     },
     {
       "text": "¿Cuál es el resultado de la siguiente expresión: 12 - 2 × 5 + 3?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/vCRbxDT5/images-1.png",
       "answers": [
         "5",
         "53",
