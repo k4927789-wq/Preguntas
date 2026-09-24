@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Ciencia Sexual",
+  "questions": [
+    {
+      "text": "¿Qué método anticonceptivo además de prevenir el embarazo protege contra las ITS?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El condón o preservativo",
+        "La píldora anticonceptiva",
+        "El DIU",
+        "El método del ritmo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuándo se debe colocar el condón masculino?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Antes de cualquier contacto genital, con el pene erecto",
+        "Justo antes de eyacular",
+        "Después de la relación",
+        "Solo si hay síntomas de ITS"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significan las siglas ITS?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Infecciones de Transmisión Sexual",
+        "Inflamaciones del Tracto Simple",
+        "Infecciones Tropicales Secundarias",
+        "Insuficiencia de Tratamiento Sexual"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué vías principalmente se transmite el VIH?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Relaciones sexuales sin protección, sangre y de madre a hijo",
+        "Besos y abrazos",
+        "Compartir cubiertos",
+        "Picaduras de mosquito"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es uno de los métodos anticonceptivos más efectivos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El implante hormonal o el DIU",
+        "El coito interrumpido",
+        "La ducha vaginal",
+        "El método del ritmo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es la píldora del día después?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un anticonceptivo de emergencia",
+        "Una cura contra ITS",
+        "Un tratamiento para el VIH",
+        "Una vitamina prenatal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué enfermedad puede causar el VPH (virus del papiloma humano)?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Cáncer de cuello uterino",
+        "Diabetes",
+        "Asma",
+        "Anemia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Existe vacuna contra el VPH?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sí, y es más efectiva antes del inicio de la vida sexual",
+        "No existe",
+        "Solo en adultos mayores",
+        "Solo después de tener la enfermedad"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La clamidia sin tratamiento puede provocar en las mujeres...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Infertilidad por daño en las trompas",
+        "Ceguera",
+        "Sordera",
+        "Hipertensión"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es un síntoma común de la gonorrea?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ardor o dolor al orinar",
+        "Pérdida de visión",
+        "Dolor de cabeza intenso",
+        "Fiebre amarilla"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La sífilis se cura con...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Penicilina (antibiótico)",
+        "Vacuna",
+        "Reposo absoluto",
+        "Vitaminas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El herpes genital es causado por...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un virus (HSV) que permanece en el cuerpo",
+        "Una bacteria",
+        "Un hongo",
+        "Un parásito"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Es posible tener una ITS sin presentar ningún síntoma?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sí, y es muy común",
+        "No, siempre hay síntomas",
+        "Solo en adultos mayores",
+        "Solo en hombres"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Se puede quedar embarazada la primera vez que tienes relaciones?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sí, siempre hay riesgo",
+        "No, la primera vez nunca",
+        "Solo después de los 20 años",
+        "Solo con métodos anticonceptivos fallidos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El coito interrumpido (sacar antes de eyacular) es...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Poco efectivo: antes de eyacular ya salen espermatozoides",
+        "100% seguro",
+        "Igual de efectivo que el condón",
+        "Un método recomendado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuánto tiempo pueden vivir los espermatozoides dentro del cuerpo femenino?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hasta 5 días",
+        "Solo 1 hora",
+        "Solo 10 minutos",
+        "30 segundos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuánto vive el óvulo una vez liberado?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Aproximadamente 24 a 48 horas",
+        "5 días",
+        "Una semana",
+        "Todo el mes"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde ocurre normalmente la fecundación?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En las trompas de Falopio",
+        "En el útero",
+        "En el ovario",
+        "En la vagina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El condón de látex NO debe usarse con...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Lubricantes a base de aceite o vaselina (los dañan)",
+        "Lubricantes a base de agua",
+        "Nada, siempre es igual",
+        "Solo con agua caliente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Se puede usar el mismo condón dos veces?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "No, jamás: se desecha después de cada uso",
+        "Sí, si se lava",
+        "Sí, si no se rompió",
+        "Solo si es del mismo día"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Es importante revisar la fecha de caducidad del condón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sí, los vencidos se rompen con más facilidad",
+        "No importa",
+        "Solo el color importa",
+        "Solo en clima frío"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La pastilla anticonceptiva diaria protege contra las ITS?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "No, solo contra el embarazo",
+        "Sí, contra todo",
+        "Sí, pero solo el VIH",
+        "Solo contra el herpes"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es un DIU?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un dispositivo intrauterino colocado por un médico",
+        "Una inyección mensual",
+        "Un tipo de condón",
+        "Una operación definitiva"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la efectividad real del condón masculino con uso típico?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Alrededor del 85-87%",
+        "100%",
+        "50%",
+        "30%"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La prueba de embarazo casera detecta qué hormona?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "hCG (gonadotropina coriónica humana)",
+        "Insulina",
+        "Testosterona",
+        "Tiroxina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuándo se recomienda hacer una prueba de embarazo casera?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Después de la primera semana de retraso menstrual",
+        "Antes de la relación",
+        "Solo en la noche",
+        "Un año después"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El VIH ataca principalmente...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El sistema inmunológico (células CD4)",
+        "Los pulmones",
+        "Los riñones",
+        "La piel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es el SIDA?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La etapa avanzada del VIH cuando el sistema inmune está muy dañado",
+        "Un tipo de gripe",
+        "Una bacteria intestinal",
+        "Un método anticonceptivo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Con el tratamiento antirretroviral (TAR), una persona con VIH...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Puede vivir una vida larga y casi normal",
+        "Siempre muere en un año",
+        "No puede tener hijos",
+        "Debe estar aislada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La tricomoniasis es una ITS causada por...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un parásito",
+        "Un virus",
+        "Un hongo",
+        "Una bacteria espiral"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El VPH se transmite...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Por contacto sexual de piel a piel, aun con condón",
+        "Solo por sangre",
+        "Por el aire",
+        "Por compartir ropa siempre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Las verrugas genitales son causadas por...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Algunos tipos de VPH",
+        "El VIH",
+        "La sífilis",
+        "La gonorrea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Contra qué enfermedad también existe vacuna además del VPH?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hepatitis B",
+        "Sífilis",
+        "Gonorrea",
+        "Herpes"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es generalmente el primer signo de la pubertad en las chicas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El desarrollo de las mamas",
+        "El crecimiento de vello facial",
+        "Cambio de voz",
+        "Aumento de estatura solo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es la menarquia?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La primera menstruación",
+        "La primera ovulación",
+        "El parto",
+        "La menopausia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde se producen los espermatozoides?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En los testículos",
+        "En la próstata",
+        "En los riñones",
+        "En el páncreas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la hormona sexual masculina principal?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Testosterona",
+        "Estrógeno",
+        "Progesterona",
+        "Insulina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hormonas predominan en el ciclo femenino?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Estrógeno y progesterona",
+        "Testosterona y cortisol",
+        "Insulina y glucagón",
+        "Tiroxina y calcitonina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Los óvulos los producen...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Los ovarios",
+        "El útero",
+        "Las trompas de Falopio",
+        "La vejiga"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde se implanta el cigoto para comenzar el embarazo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En la pared del útero (endometrio)",
+        "En el ovario",
+        "En la vagina",
+        "En las trompas permanentemente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuánto dura aproximadamente un embarazo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "40 semanas (9 meses)",
+        "6 meses",
+        "12 meses",
+        "3 meses"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Para qué es importante el ácido fólico antes y durante el embarazo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Previene defectos del tubo neural del bebé",
+        "Cura las ITS",
+        "Aumenta la fertilidad masculina",
+        "Es un anticonceptivo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La lactancia materna es recomendada como alimento exclusivo los primeros...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "6 meses de vida",
+        "2 años obligatoriamente",
+        "3 semanas",
+        "12 años"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El consentimiento en las relaciones sexuales significa...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Acuerdo libre, consciente y reversible de ambas personas",
+        "Silencio",
+        "Presión de pareja",
+        "Una obligación"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es el condón femenino?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Una bolsa de poliuretano o nitrilo que se inserta en la vagina",
+        "Una inyección",
+        "Una píldora",
+        "Un dispositivo uterino"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Usar solo espermicida como método anticonceptivo es...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Poco efectivo; se recomienda combinarlo con condón",
+        "Muy efectivo",
+        "Igual que la píldora",
+        "Definitivo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La vasectomía es...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un método anticonceptivo definitivo para hombres",
+        "Una prueba de fertilidad",
+        "Un tratamiento contra ITS",
+        "Un tipo de condón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La ligadura de trompas es...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un método anticonceptivo definitivo para mujeres",
+        "Un examen de embarazo",
+        "Un tratamiento hormonal temporal",
+        "Una vacuna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Las anticonceptivas de emergencia funcionan mejor...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Cuanto antes se toman (ideal en las primeras 72 horas)",
+        "A la semana siguiente",
+        "Un mes después",
+        "Solo con ayuno"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El VIH se transmite por dar o recibir besos en la boca?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "No",
+        "Sí, siempre",
+        "Sí, por saliva visible",
+        "Solo en besos largos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Compartir cubiertos o vasos transmite VIH?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "No",
+        "Sí, siempre",
+        "Solo si están calientes",
+        "Solo en restaurantes"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Una picadura de mosquito puede transmitir VIH?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "No",
+        "Sí",
+        "Solo de noche",
+        "Solo en selvas"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuáles de estas ITS NO tienen cura actualmente?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "VIH y herpes genital",
+        "Sífilis y gonorrea",
+        "Clamidia y tricomoniasis",
+        "Todas tienen cura"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuáles ITS SÍ se curan con antibióticos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sífilis, gonorrea y clamidia",
+        "VIH y VPH",
+        "Herpes y hepatitis B",
+        "Ninguna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Orinar después de las relaciones previene el embarazo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "No, es un mito",
+        "Sí, totalmente",
+        "Sí, si es inmediato",
+        "Solo en mujeres"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Tomar una ducha vaginal después del sexo evita el embarazo o las ITS?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "No, no protege y puede alterar la flora",
+        "Sí, es efectiva",
+        "Solo si es con jabón",
+        "Solo previene ITS"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La menstruación dura normalmente entre...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "3 y 7 días",
+        "15 y 20 días",
+        "Solo 1 día",
+        "Todo el mes"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿El ciclo menstrual promedio dura...",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "28 días (puede variar entre 21 y 35)",
+        "7 días exactos",
+        "90 días",
+        "5 días"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿La ovulación ocurre generalmente...",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "A la mitad del ciclo, alrededor del día 14 en un ciclo de 28 días",
+        "Durante la menstruación",
+        "Siempre el día 1",
+        "Después de la menopausia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué se recomienda para cuidar la salud sexual?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Usar protección, hacerse chequeos regulares e informarse con fuentes confiables",
+        "Evitar toda pregunta al médico",
+        "Seguir solo rumores de internet",
+        "No vacunarse jamás"
+      ],
+      "correct": 0
+    }
+  ]
+}
