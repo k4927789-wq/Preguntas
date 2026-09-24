@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Carros",
+  "questions": [
+    {
+      "text": "¿Qué significan las siglas SUV?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sport Utility Vehicle",
+        "Super Urban Van",
+        "Speed Ultra Veloz",
+        "Street Utility Wagon"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca de autos usa el logo de un toro en escudo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Lamborghini",
+        "Ferrari",
+        "Porsche",
+        "Maserati"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué país es originaria la marca Ferrari?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Italia",
+        "Alemania",
+        "Francia",
+        "Reino Unido"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se le conoce popularmente al Volkswagen Tipo 1?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Vocho",
+        "Escarabajo",
+        "Ambas son correctas",
+        "Combi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significan las siglas BMW?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Bayerische Motoren Werke",
+        "Berlin Motor Works",
+        "British Motor Works",
+        "Bavarian Motor Wagons"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca tiene el logo de la estrella de tres puntas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mercedes-Benz",
+        "BMW",
+        "Audi",
+        "Volvo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué auto usan para viajar en el tiempo en 'Volver al Futuro'?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "DeLorean DMC-12",
+        "Ford Mustang",
+        "Chevrolet Camaro",
+        "Pontiac Firebird"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de motor hizo famoso al Toyota Prius?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Híbrido (gasolina + eléctrico)",
+        "Diésel",
+        "Rotativo",
+        "V8 de alto cilindraje"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca japonesa usa el logo de las estrellas de las Pléyades?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Subaru",
+        "Mitsubishi",
+        "Toyota",
+        "Honda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el modelo de auto más vendido de la historia?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Toyota Corolla",
+        "Ford F-150",
+        "Volkswagen Golf",
+        "Honda Civic"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa HP en las especificaciones de un motor?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Horsepower (caballos de fuerza)",
+        "High Performance",
+        "Horse Pulley",
+        "Hydro Power"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fabrica el Mustang?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ford",
+        "Chevrolet",
+        "Dodge",
+        "Pontiac"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué país es la marca Hyundai?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Corea del Sur",
+        "Japón",
+        "China",
+        "Tailandia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significan las siglas RPM?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Revoluciones por minuto",
+        "Ruedas por metro",
+        "Rendimiento por milla",
+        "Respuesta de potencia máxima"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca usa el emblema del 'cavallino rampante' (caballo rampante)?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ferrari",
+        "Porsche",
+        "Lamborghini",
+        "Alfa Romeo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de combustible usa un motor diésel?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Diésel (gasóleo)",
+        "Gasolina",
+        "Gas LP",
+        "Electricidad solamente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué empresa fundó Henry Ford en 1903?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ford Motor Company",
+        "General Motors",
+        "Chrysler",
+        "Studebaker"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa que un auto sea 4x4?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tiene tracción en las cuatro ruedas",
+        "Tiene 4 puertas y 4 cilindros",
+        "Alcanza 400 km/h",
+        "Usa 4 tipos de combustible"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca usa el logo de los cuatro aros entrelazados?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Audi",
+        "Mercedes-Benz",
+        "Toyota",
+        "Renault"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el modelo deportivo clásico de Porsche con motor trasero?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Porsche 911",
+        "Porsche Cayenne",
+        "Porsche Panamera",
+        "Porsche Macan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la carrocería de dos puertas con techo fijo y perfil bajo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Cupé",
+        "Sedán",
+        "Hatchback",
+        "Wagon"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es el sistema ABS en un automóvil?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sistema de frenado antibloqueo",
+        "Asistente de bajada en pendientes",
+        "Control de tracción",
+        "Alarma antirrobos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué país es originaria la marca Volvo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Suecia",
+        "Noruega",
+        "Alemania",
+        "Finlandia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fabrica los modelos Civic y Accord?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Honda",
+        "Toyota",
+        "Nissan",
+        "Mazda"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué genera electricidad para cargar la batería mientras el motor funciona?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El alternador",
+        "El radiador",
+        "El carburador",
+        "El múltiple de escape"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca italiana usa el logo del tridente?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Maserati",
+        "Ferrari",
+        "Lancia",
+        "Bugatti"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa GT en los autos deportivos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gran Turismo",
+        "Gran Tracción",
+        "Grand Turbo",
+        "Grupo de Touring"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la pickup más emblemática de Ford?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "F-150",
+        "Ranger",
+        "Maverick",
+        "Bronco"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fundó Soichiro Honda?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Honda",
+        "Toyota",
+        "Nissan",
+        "Subaru"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fabrica el modelo eléctrico Leaf?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Nissan",
+        "Chevrolet",
+        "BMW",
+        "Kia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa EV en el mundo automotriz?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Electric Vehicle (vehículo eléctrico)",
+        "Eco Veloz",
+        "Economic Van",
+        "Extra Value"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca francesa usa el logo del león?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Peugeot",
+        "Renault",
+        "Citroën",
+        "Bugatti"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué país es originaria la marca Fiat?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Italia",
+        "Francia",
+        "España",
+        "Portugal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace el turbo de un motor?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Comprime el aire de admisión usando los gases de escape",
+        "Enfría el motor con aire extra",
+        "Aumenta el tamaño de las llantas",
+        "Mezcla la gasolina con aceite"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la pickup famosa de Toyota conocida por su durabilidad?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hilux",
+        "Tacoma",
+        "Tundra",
+        "Land Cruiser Pickup"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa F1?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Fórmula 1",
+        "Fuerza 1",
+        "Factor único",
+        "Freno único"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fabrica el Golf?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Volkswagen",
+        "Ford",
+        "Seat",
+        "Opel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué componente transmite la potencia del motor a las ruedas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La transmisión",
+        "El radiador",
+        "El filtro de aire",
+        "La batería"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué auto japonés es icónico en 'Rápidos y Furiosos' como Skyline?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Nissan Skyline GT-R",
+        "Toyota Supra",
+        "Mazda RX-7",
+        "Honda NSX"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa EV... mejor: qué significa SUV ya se dijo; ¿qué es un 'hatchback'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Carrocería con portón trasero integrado (3 o 5 puertas)",
+        "Un pickup con caja grande",
+        "Un sedán de lujo",
+        "Un auto sin techo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué parte del freno se presiona contra el disco para frenar?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Las pastillas de freno",
+        "El amortiguador",
+        "La banda de transmisión",
+        "El radiador"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca usa el logo con la letra S estilizada?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Suzuki",
+        "Subaru",
+        "Skoda",
+        "Saab"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa LED en las luces de un auto?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Diodo emisor de luz",
+        "Lámpara eléctrica doble",
+        "Luz europea directa",
+        "Lente de emergencia dinámica"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca británica usa el logo con la B y alas desplegadas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bentley",
+        "Aston Martin",
+        "Jaguar",
+        "Rolls-Royce"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa 4WD?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Tracción en las cuatro ruedas (4 Wheel Drive)",
+        "4 Wipers Dinámicos",
+        "Cuatro ventanas dobles",
+        "4 Cilindros con doble árbol"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fabrica el Wrangler y el Cherokee?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jeep",
+        "Land Rover",
+        "Toyota",
+        "Suzuki"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué modelo de Mazda es famoso por su motor rotativo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "RX-7",
+        "MX-5",
+        "Mazda 3",
+        "CX-5"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa DSG en los Volkswagen?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Caja de doble embrague (Direct-Shift Gearbox)",
+        "Dirección asistida deportiva",
+        "Sistema de gas dual",
+        "Distribución de suspensión grande"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué país es originaria la marca Renault?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Francia",
+        "Italia",
+        "Bélgica",
+        "España"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué componente almacena la energía en un auto híbrido?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La batería de alto voltaje",
+        "El radiador",
+        "El tanque de reserva",
+        "El escape catalítico"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué deportivo de Chevrolet tiene un logo de bandera a cuadros?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Corvette",
+        "Camaro",
+        "Impala",
+        "Malibu"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa GPS?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sistema de Posicionamiento Global",
+        "Guía de Posición Satelital",
+        "Gran Potencia de Señal",
+        "Sistema de Parqueo Guiado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca usa el logo con el jaguar saltando?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Jaguar",
+        "Puma",
+        "Ford",
+        "Alpine"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de auto es el Tesla Model S?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sedán eléctrico",
+        "Pickup diésel",
+        "SUV híbrida",
+        "Cupé de gasolina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué parte del motor mezcla aire y combustible en los motores antiguos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El carburador",
+        "El turbo",
+        "El radiador",
+        "El cigüeñal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca fundó Ferruccio Lamborghini originalmente como fábrica de...?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Tractores",
+        "Bicicletas",
+        "Motos",
+        "Barcos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa el término 'kilowatio' (kW) en un auto eléctrico?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Unidad de potencia eléctrica",
+        "Tipo de batería",
+        "Medida de llantas",
+        "Marca de neumáticos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué auto es conocido como 'el coche fantástico' de la serie?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pontiac Trans Am (KITT)",
+        "Ford Mustang",
+        "Dodge Charger",
+        "Chevrolet Corvette"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué marca coreana fabrica los modelos Rio y Sportage?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Kia",
+        "Hyundai",
+        "SsangYong",
+        "Daewoo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa la 'N' en el Nissan GT-R Nismo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Es la división deportiva de Nissan (Nismo)",
+        "Nivel nacional",
+        "Nueva generación",
+        "Número de serie"
+      ],
+      "correct": 0
+    }
+  ]
+}
