@@ -1,10 +1,10 @@
 {
   "app": "MikuQuiz",
-  "name": "Nombres ordinales en francés (1.° - 60.°)",
+  "name": "Nombres ordinales en francés (1.° - 60.°) - Mezclado",
   "questions": [
     {
       "text": "¿Cuál es el número ordinal correcto para 37?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-septième",
         "Trente-sept",
@@ -15,7 +15,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 14?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quatorzième",
         "Quatorze",
@@ -26,7 +26,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 52?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-deuxième",
         "Cinquante-deux",
@@ -37,7 +37,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 3?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Troisième",
         "Trois",
@@ -48,7 +48,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 48?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-huitième",
         "Quarante-huit",
@@ -59,7 +59,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 19?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Dix-neuvième",
         "Dix-neuf",
@@ -70,7 +70,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 25?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-cinquième",
         "Vingt-cinq",
@@ -81,7 +81,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 6?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Sixième",
         "Six",
@@ -92,7 +92,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 41?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante et unième",
         "Quarante-premier",
@@ -103,7 +103,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 58?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-huitième",
         "Cinquante-huit",
@@ -114,7 +114,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 12?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Douzième",
         "Douze",
@@ -125,7 +125,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 33?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-troisième",
         "Trente-trois",
@@ -136,7 +136,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 1?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Premier",
         "Unième",
@@ -147,7 +147,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 29?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-neuvième",
         "Vingt-neuf",
@@ -158,7 +158,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 55?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-cinquième",
         "Cinquante-cinq",
@@ -169,7 +169,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 8?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Huitième",
         "Huit",
@@ -180,7 +180,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 22?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-deuxième",
         "Vingt-deux",
@@ -191,7 +191,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 44?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-quatrième",
         "Quarante-quatre",
@@ -202,7 +202,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 16?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Seizième",
         "Seize",
@@ -213,7 +213,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 60?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Soixantième",
         "Soixante",
@@ -224,7 +224,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 5?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquième",
         "Cinq",
@@ -235,7 +235,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 39?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-neuvième",
         "Trente-neuf",
@@ -246,7 +246,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 27?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-septième",
         "Vingt-sept",
@@ -257,7 +257,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 50?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquantième",
         "Cinquante",
@@ -268,7 +268,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 11?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Onzième",
         "Onze",
@@ -279,7 +279,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 34?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-quatrième",
         "Trente-quatre",
@@ -290,7 +290,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 4?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quatrième",
         "Quatre",
@@ -301,7 +301,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 57?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-septième",
         "Cinquante-sept",
@@ -312,7 +312,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 20?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingtième",
         "Vingt",
@@ -323,7 +323,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 43?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-troisième",
         "Quarante-trois",
@@ -334,7 +334,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 2?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Deuxième",
         "Deux",
@@ -345,7 +345,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 31?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente et unième",
         "Trente-premier",
@@ -356,7 +356,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 15?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quinzième",
         "Quinze",
@@ -367,7 +367,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 46?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-sixième",
         "Quarante-six",
@@ -378,7 +378,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 24?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-quatrième",
         "Vingt-quatre",
@@ -389,7 +389,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 59?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-neuvième",
         "Cinquante-neuf",
@@ -400,7 +400,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 10?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Dixième",
         "Dix",
@@ -411,7 +411,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 36?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-sixième",
         "Trente-six",
@@ -422,7 +422,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 51?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante et unième",
         "Cinquante-premier",
@@ -433,7 +433,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 18?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Dix-huitième",
         "Dix-huit",
@@ -444,7 +444,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 40?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarantième",
         "Quarante",
@@ -455,7 +455,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 7?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Septième",
         "Sept",
@@ -466,7 +466,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 28?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-huitième",
         "Vingt-huit",
@@ -477,7 +477,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 53?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-troisième",
         "Cinquante-trois",
@@ -488,7 +488,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 17?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Dix-septième",
         "Dix-sept",
@@ -499,7 +499,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 32?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-deuxième",
         "Trente-deux",
@@ -510,7 +510,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 49?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-neuvième",
         "Quarante-neuf",
@@ -521,7 +521,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 21?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt et unième",
         "Vingt-premier",
@@ -532,7 +532,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 45?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-cinquième",
         "Quarante-cinq",
@@ -543,7 +543,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 9?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Neuvième",
         "Neuf",
@@ -554,7 +554,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 35?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-cinquième",
         "Trente-cinq",
@@ -565,7 +565,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 56?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-sixième",
         "Cinquante-six",
@@ -576,7 +576,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 13?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Treizième",
         "Treize",
@@ -587,7 +587,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 42?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-deuxième",
         "Quarante-deux",
@@ -598,7 +598,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 26?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-sixième",
         "Vingt-six",
@@ -609,7 +609,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 30?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trentième",
         "Trente",
@@ -620,7 +620,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 54?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Cinquante-quatrième",
         "Cinquante-quatre",
@@ -631,7 +631,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 23?",
-      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Vingt-troisième",
         "Vingt-trois",
@@ -642,7 +642,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 47?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Quarante-septième",
         "Quarante-sept",
@@ -653,7 +653,7 @@
     },
     {
       "text": "¿Cuál es el número ordinal correcto para 38?",
-      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "img": "https://i.ibb.co/0pGS5Lvb/images-4.jpg",
       "answers": [
         "Trente-huitième",
         "Trente-huit",
