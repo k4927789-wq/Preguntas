@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Inglés Básico",
+  "questions": [
+    {
+      "text": "¿Qué significa \"Hello\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gracias",
+        "Por favor",
+        "Adiós",
+        "Hola"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Goodbye\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Adiós",
+        "Hola",
+        "Buenos días",
+        "Gracias"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"How are you?\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "¿Cómo estás?",
+        "¿Dónde estás?",
+        "¿Qué hora es?",
+        "¿Quién eres?"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Thank you\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gracias",
+        "Por favor",
+        "De nada",
+        "Perdón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"You're welcome\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Con permiso",
+        "Gracias a ti",
+        "Bienvenido",
+        "De nada"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Please\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Por favor",
+        "Ayuda",
+        "Gracias",
+        "Perdón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Good morning\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Buenas tardes",
+        "Buenas noches",
+        "Hola",
+        "Buenos días"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Good night\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Buenas noches",
+        "Buenas tardes",
+        "Hasta mañana",
+        "Buenos días"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Good afternoon\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Feliz tarde",
+        "Buenas noches",
+        "Buenos días",
+        "Buenas tardes"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"What's your name?\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "¿Cómo te llamas?",
+        "¿Dónde vives?",
+        "¿Qué haces?",
+        "¿Cuál es tu edad?"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"My name is...\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Me llamo...",
+        "Me gusta...",
+        "Tengo... años",
+        "Vivo en..."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Nice to meet you\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hasta luego",
+        "Mucho gusto",
+        "Nos vemos",
+        "Qué bueno"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"See you later\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Que descanses",
+        "Hasta nunca",
+        "Te veo antes",
+        "Nos vemos luego"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"How much is it?\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "¿Cuántos hay?",
+        "¿Dónde está?",
+        "¿Qué es esto?",
+        "¿Cuánto cuesta?"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Where is the bathroom?\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "¿Dónde vivo?",
+        "¿Dónde está la escuela?",
+        "¿Dónde está el baño?",
+        "¿Dónde como?"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"I don't understand\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "No hablo",
+        "No entiendo",
+        "No escucho",
+        "No veo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Do you speak Spanish?\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "¿Entiendes todo?",
+        "¿Hablas inglés?",
+        "¿Hablas español?",
+        "¿Estudias español?"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"I love you\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Te odio",
+        "Me gustas",
+        "Te quiero",
+        "Te ayudo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Friend\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Maestro",
+        "Familia",
+        "Amigo",
+        "Enemigo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Family\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Escuela",
+        "Familia",
+        "Trabajo",
+        "Amigos"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Water\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Agua",
+        "Tierra",
+        "Fuego",
+        "Aire"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Food\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Comida",
+        "Agua",
+        "Bebida",
+        "Dinero"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"House\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Coche",
+        "Perro",
+        "Escuela",
+        "Casa"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Dog\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Perro",
+        "Casa",
+        "Pájaro",
+        "Gato"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Cat\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gato",
+        "Pez",
+        "Ratón",
+        "Perro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Book\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mesa",
+        "Libro",
+        "Lápiz",
+        "Cuaderno"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"School\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Casa",
+        "Trabajo",
+        "Tienda",
+        "Escuela"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Teacher\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Estudiante",
+        "Maestro",
+        "Doctor",
+        "Amigo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Student\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Maestro",
+        "Ingeniero",
+        "Director",
+        "Estudiante"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Money\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Dinero",
+        "Comida",
+        "Tiempo",
+        "Agua"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Day\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Año",
+        "Día",
+        "Semana",
+        "Noche"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Night\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Día",
+        "Mañana",
+        "Noche",
+        "Tarde"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Sun\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Fuego",
+        "Luna",
+        "Sol",
+        "Estrella"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Moon\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Nube",
+        "Estrella",
+        "Luna",
+        "Sol"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Big\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Alto",
+        "Pequeño",
+        "Rápido",
+        "Grande"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Small\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pequeño",
+        "Grande",
+        "Largo",
+        "Fuerte"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Hot\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Caliente",
+        "Frío",
+        "Grande",
+        "Tibio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Cold\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Húmedo",
+        "Caliente",
+        "Suave",
+        "Frío"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Good\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Malo",
+        "Regular",
+        "Grande",
+        "Bueno"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Bad\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Malo",
+        "Feliz",
+        "Bueno",
+        "Regular"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Happy\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Feliz",
+        "Cansado",
+        "Triste",
+        "Enojado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Sad\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Feliz",
+        "Enojado",
+        "Tranquilo",
+        "Triste"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Hungry\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sediento",
+        "Cansado",
+        "Hambriento",
+        "Lleno"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Thirsty\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cansado",
+        "Mojado",
+        "Sediento",
+        "Hambriento"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Tired\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Despierto",
+        "Feliz",
+        "Cansado",
+        "Rápido"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"Eat\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Correr",
+        "Dormir",
+        "Beber",
+        "Comer"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Drink\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Comer",
+        "Correr",
+        "Dormir",
+        "Beber"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Sleep\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Correr",
+        "Comer",
+        "Despertar",
+        "Dormir"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Run\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Saltar",
+        "Dormir",
+        "Caminar lento",
+        "Correr"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Help!\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "¡Ayuda!",
+        "¡Agua!",
+        "¡Fuego!",
+        "¡Hola!"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Today\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hoy",
+        "Mañana",
+        "Nunca",
+        "Ayer"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"Tomorrow\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hoy",
+        "Siempre",
+        "Ayer",
+        "Mañana"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Yesterday\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Noche",
+        "Mañana",
+        "Hoy",
+        "Ayer"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Apple\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pera",
+        "Manzana",
+        "Naranja",
+        "Uva"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Red\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Verde",
+        "Negro",
+        "Azul",
+        "Rojo"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"Blue\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gris",
+        "Azul",
+        "Rojo",
+        "Amarillo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Good luck\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Buenas noches",
+        "Buena suerte",
+        "Buen viaje",
+        "Buena comida"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"Excuse me\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Disculpe / Con permiso",
+        "Lo siento mucho",
+        "Gracias",
+        "Adiós"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"I'm sorry\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Lo siento",
+        "Gracias",
+        "De nada",
+        "Felicidades"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"What time is it?\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "¿Qué hora es?",
+        "¿Qué día es?",
+        "¿Dónde estoy?",
+        "¿Cuánto cuesta?"
+      ],
+      "correct": 0
+    }
+  ]
+}
