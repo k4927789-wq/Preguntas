@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Jujutsu Kaisen",
+  "questions": [
+    {
+      "text": "¿Cómo se llama el protagonista de Jujutsu Kaisen?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Yuji Itadori",
+        "Megumi Fushiguro",
+        "Satoru Gojo",
+        "Yuta Okkotsu"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Sukuna?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El Rey de las Maldiciones",
+        "El fundador de la escuela",
+        "El padre de Yuji",
+        "Un Hashira"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿En cuántos dedos está dividido el cuerpo de Sukuna?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "20 dedos",
+        "10 dedos",
+        "5 dedos",
+        "100 dedos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde comió Yuji el primer dedo de Sukuna?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En su escuela, con Fushiguro",
+        "En la escuela de hechicería",
+        "En un hospital",
+        "En el cementerio"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la escuela de hechicería que frecuenta Yuji?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Escuela Jujutsu de Tokio",
+        "Escuela Jujutsu de Kyoto",
+        "Instituto Shibuya",
+        "Academia Zenin"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la técnica heredada de Satoru Gojo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Los Seis Ojos y la Técnica Infinita",
+        "Diez Sombras",
+        "Boogie Woogie",
+        "Transfiguración del Alma"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la expansión de dominio de Gojo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Santuario Mal Infinito",
+        "Santuario Malévolo",
+        "Jardín de Sombras Quimera",
+        "Autoencarnación de la Perfección"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué lleva Gojo siempre una venda en los ojos?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sus Seis Ojos le dan información en exceso",
+        "Es ciego de nacimiento",
+        "Es un estilo",
+        "Para ocultar cicatrices"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la técnica de Megumi Fushiguro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Técnica de las Diez Sombras",
+        "Técnica de la Sangre",
+        "Técnica de Resonancia",
+        "Técnica de la Proporción 7:3"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama el primer shikigami de Megumi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Perro Divino",
+        "Nue",
+        "El Gran Serpiente",
+        "El Ciervo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué arma usa Nobara Kugisaki?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Martillo y clavos de maldición",
+        "Katana",
+        "Lanza",
+        "Guadaña"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué habilidad especial tiene Toge Inumaki?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Maldición de la palabra hablada",
+        "Fuerza sobrehumana",
+        "Invocación",
+        "Telequinesis"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa 'salmón' para Inumaki?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sí / está bien",
+        "No",
+        "Adiós",
+        "Cuidado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Maki Zenin no usa energía maldita?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Nació sin ella, usa armas malditas",
+        "La sellaron",
+        "La perdió en batalla",
+        "Es una maldición"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es Panda realmente?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un muñeco maldito creado por Yaga",
+        "Un oso maldito",
+        "Un hechicero transformado",
+        "Un aliado de Sukuna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Rika en Jujutsu Kaisen 0?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La Reina de las Maldiciones, vinculada a Yuta",
+        "La hermana de Yuji",
+        "Una profesora",
+        "La madre de Megumi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la técnica de Yuta Okkotsu?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Copiar técnicas con energía maldita ilimitada",
+        "Diez Sombras",
+        "Habla maldita",
+        "Proporción 7:3"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué técnica usaba Suguru Geto?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Manipulación de maldiciones espirituales",
+        "Infinito",
+        "Transfiguración del alma",
+        "Sangre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la técnica de Mahito?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Transfiguración del Alma (Idle Transfiguration)",
+        "Infinito",
+        "Boogie Woogie",
+        "Diez Sombras"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué le hace Mahito a Junpei Yoshino?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Lo transfigura y lo usa contra Yuji",
+        "Lo hace hechicero",
+        "Lo cura",
+        "Lo envía a Kyoto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la técnica de Kento Nanami?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Proporción 7:3 (Ratio)",
+        "Boogie Woogie",
+        "Resonancia",
+        "Sellado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué rango tiene Nanami?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Grado 1",
+        "Grado especial",
+        "Grado 4",
+        "Sin rango"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es el 'Destello Negro' (Black Flash)?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un golpe con energía maldita al límite que multiplica la potencia",
+        "Una técnica de Gojo",
+        "Una maldición",
+        "Un sello"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la técnica de Aoi Todo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Boogie Woogie (intercambia posiciones con aplausos)",
+        "Infinito",
+        "Diez Sombras",
+        "Sangre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A quién admira obsesivamente Todo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "A Takada (ídolo pop)",
+        "A Gojo",
+        "A su hermano",
+        "A Yuji"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es Mechamaru (Kokichi Muta) realmente?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un hechicero con cuerpo mecánico por un pacto",
+        "Un robot",
+        "Una maldición",
+        "Un muñeco de Yaga"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el director de la escuela de Tokio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Masamichi Yaga",
+        "Yoshinobu Gakuganji",
+        "Gojo Satoru",
+        "Masamune"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De dónde nace la energía maldita?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "De las emociones negativas de los humanos",
+        "Del sol",
+        "De los dedos de Sukuna",
+        "De la luna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué son los espíritus malditos?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Seres nacidos del odio y miedo acumulados de la humanidad",
+        "Humanos malditos",
+        "Ángeles caídos",
+        "Creaciones de Geto"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace la técnica invertida de energía maldita?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cura heridas",
+        "Duplica el poder",
+        "Borra memorias",
+        "Invoca shikigamis"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la expansión de dominio de Sukuna?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Santuario Malévolo",
+        "Santuario Mal Infinito",
+        "Jardín de Sombras",
+        "Juicio Final"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la expansión de dominio de Megumi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jardín de Sombras Quimera",
+        "Santuario Malévolo",
+        "Autoencarnación de la Perfección",
+        "Malevolent Garden"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la expansión de dominio de Mahito?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Autoencarnación de la Perfección",
+        "Santuario Mal Infinito",
+        "Jardín de Sombras",
+        "Prisión del Estado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué son los 'vínculos vinculantes' (Binding Vows)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pactos que otorgan poder a cambio de restricciones",
+        "Cadenas mágicas",
+        "Sellos de dedos",
+        "Juramentos de sangre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué pasa con Gojo en el Incidente de Shibuya?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Es sellado en la Prisión del Estado",
+        "Muere",
+        "Pierde los Seis Ojos",
+        "Se vuelve villano"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién sella a Gojo en Shibuya?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Kenjaku (Pseudo-Geto)",
+        "Sukuna",
+        "Mahito",
+        "Jogo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Kenjaku realmente?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Un hechicero milenario que roba cuerpos (posee el de Geto)",
+        "El hermano de Geto",
+        "Un dios maldito",
+        "El padre de Yuji"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué son los 'Pinturas de la Muerte'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Los hermanos Choso, Eso y Kechizu",
+        "Las víctimas de Sukuna",
+        "Los dedos sellados",
+        "Las tumbas de hechiceros"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es la técnica de Choso?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Manipulación de Sangre",
+        "Infinito",
+        "Sombras",
+        "Habla maldita"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué revela Choso sobre su parentesco con Yuji?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Que son hermanos de sangre (medio hermanos)",
+        "Que son primos",
+        "Que no son parientes",
+        "Que Yuji es su padre"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Toji Fushiguro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El padre de Megumi, asesino sin energía maldita",
+        "El hermano de Gojo",
+        "Un director de escuela",
+        "Una maldición especial"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo almacena Toji sus armas malditas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "En un inventario dimensional (maldición con boca)",
+        "En un bolsillo",
+        "Bajo la tierra",
+        "Las invoca"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué clan proviene Megumi (por línea paterna)?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Clan Zenin",
+        "Clan Gojo",
+        "Clan Kamo",
+        "Clan Inumaki"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué pasó entre Maki y su clan Zenin?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La menospreciaron por débil; luego los destruyó",
+        "La nombraron heredera",
+        "La exiliaron a Kyoto",
+        "La adoptaron los Gojo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Mai Zenin?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "La hermana gemela de Maki",
+        "La madre de Megumi",
+        "Una profesora",
+        "La líder del clan Kamo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es el 'Juego de Exterminio' (Culling Game)?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Una guerra de hechiceros y maldiciones ideada por Kenjaku",
+        "Un torneo escolar",
+        "El examen de grado",
+        "Un ritual de Sukuna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué le sucede a Sukuna respecto a Megumi en el Juego de Exterminio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Toma posesión del cuerpo de Megumi",
+        "Se alía con él",
+        "Lo mata",
+        "Lo sella"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Hana Kurusu / Ángel?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Una hechicera poseída por la Ángel que quiere destruir a Sukuna",
+        "Una villana de Kyoto",
+        "La hermana de Nobara",
+        "Una maldición"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué hace Yuji con los dedos de Sukuna que consume?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Los come para contenerlos y luego los exorcia",
+        "Los quema",
+        "Los entierra",
+        "Los regala"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Por qué Yuji es el contenedor ideal de Sukuna?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Compatibilidad total con el cuerpo de Sukuna",
+        "Es el hijo de Sukuna",
+        "Tiene los Seis Ojos",
+        "Porque es de sangre Zenin"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué técnica usa Noritoshi Kamo de Kyoto?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Manipulación de Sangre",
+        "Infinito",
+        "Sombras",
+        "Proporción 7:3"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué le gusta comer a Yuji?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El pan de langosta y ver películas",
+        "Solo arroz",
+        "Dulces de maldición",
+        "Nada, ayuna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué técnica usa Kasumi Miwa de Kyoto?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Nueva Sombra Estilo: Simple Dominio",
+        "Sangre",
+        "Boogie Woogie",
+        "Fuerza bruta"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llama la maldición de grado especial con forma de volcán?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Jogo",
+        "Hanami",
+        "Mahito",
+        "Choso"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué maldición especial controla las plantas y odia a los humanos por la naturaleza?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Hanami",
+        "Jogo",
+        "Dagon",
+        "Choso"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué le regala Gojo a Yuji y los demás para viajar?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gafas de sol / moda",
+        "Escobas voladoras",
+        "Autos",
+        "Nada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué frase dice Yuji sobre su forma de vivir?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "'Ayudaré a la gente aunque no me agradean los resultados'",
+        "'Seré el más fuerte'",
+        "'Odio a los débiles'",
+        "'Viviré tranquilo'"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el narrador que dice 'En este mundo...'?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El propio Gojo",
+        "El autor Gege Akutami como narrador",
+        "Yuji",
+        "Un cuervo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué le ocurre a Nobara en el Incidente de Shibuya?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Es gravemente herida por Mahito",
+        "Muere confirmado",
+        "Se vuelve villana",
+        "Es sellada"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es la 'Técnica de los Diez Sombras' capaz de invocar al final?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Al shikigami más fuerte: el General Mahoraga",
+        "A Sukuna",
+        "Al Ángel",
+        "Al Rey de las Maldiciones"
+      ],
+      "correct": 0
+    }
+  ]
+}
