@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Inglés: Números 1-60",
+  "questions": [
+    {
+      "text": "¿Cómo se dice el número 1 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "four",
+        "three",
+        "two",
+        "one"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 2 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "one",
+        "four",
+        "five",
+        "two"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 3 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "three",
+        "five",
+        "six",
+        "two"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 4 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "one",
+        "seven",
+        "three",
+        "four"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 5 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "two",
+        "five",
+        "three",
+        "seven"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 6 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "nine",
+        "six",
+        "eight",
+        "four"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 7 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "nine",
+        "seven",
+        "six",
+        "ten"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 8 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "eleven",
+        "seven",
+        "eight",
+        "nine"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 9 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "eleven",
+        "six",
+        "ten",
+        "nine"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 10 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "thirteen",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 11 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirteen",
+        "eight",
+        "eleven",
+        "ten"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 12 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "nine",
+        "eleven",
+        "twelve",
+        "fourteen"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 13 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fourteen",
+        "thirteen",
+        "sixteen",
+        "ten"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 14 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fourteen",
+        "thirteen",
+        "seventeen",
+        "fifteen"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 15 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirteen",
+        "eighteen",
+        "fifteen",
+        "sixteen"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 16 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "seventeen",
+        "fifteen",
+        "sixteen",
+        "fourteen"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 17 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fifteen",
+        "seventeen",
+        "eighteen",
+        "sixteen"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 18 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "nineteen",
+        "eighteen",
+        "twenty",
+        "seventeen"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 19 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "twenty",
+        "nineteen",
+        "eighteen",
+        "sixteen"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 20 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "twenty",
+        "eighteen",
+        "nineteen",
+        "seventeen"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 21 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "twenty-two",
+        "twenty-four",
+        "eighteen",
+        "twenty-one"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 22 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "nineteen",
+        "twenty-two",
+        "twenty-three",
+        "twenty-one"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 23 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "twenty",
+        "twenty-three",
+        "twenty-two",
+        "twenty-one"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 24 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "twenty-four",
+        "twenty-three",
+        "twenty-six",
+        "twenty-two"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 25 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "twenty-seven",
+        "twenty-three",
+        "twenty-five",
+        "twenty-six"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 26 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "twenty-five",
+        "twenty-six",
+        "twenty-nine",
+        "twenty-three"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 27 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "twenty-five",
+        "twenty-seven",
+        "thirty",
+        "twenty-six"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 28 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "twenty-six",
+        "twenty-seven",
+        "twenty-eight",
+        "twenty-nine"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 29 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirty-two",
+        "twenty-six",
+        "twenty-nine",
+        "twenty-seven"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 30 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "thirty",
+        "thirty-three",
+        "thirty-one",
+        "thirty-two"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 31 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirty-one",
+        "thirty-four",
+        "thirty-three",
+        "thirty-two"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 32 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "twenty-nine",
+        "thirty-four",
+        "thirty-five",
+        "thirty-two"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 33 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirty-one",
+        "thirty-five",
+        "thirty",
+        "thirty-three"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 34 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "thirty-four",
+        "thirty-six",
+        "thirty-two",
+        "thirty-one"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 35 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirty-eight",
+        "thirty-seven",
+        "thirty-six",
+        "thirty-five"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 36 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "thirty-four",
+        "thirty-five",
+        "thirty-six",
+        "thirty-seven"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 37 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirty-eight",
+        "thirty-seven",
+        "thirty-five",
+        "thirty-four"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 38 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "thirty-five",
+        "thirty-six",
+        "thirty-seven",
+        "thirty-eight"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 39 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "thirty-seven",
+        "forty",
+        "thirty-six",
+        "thirty-nine"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 40 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fourty",
+        "forty-two",
+        "forty",
+        "thirty-seven"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 41 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "forty-two",
+        "forty-one",
+        "forty-four",
+        "forty"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 42 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "forty-five",
+        "forty",
+        "forty-two",
+        "forty-four"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 43 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "forty-six",
+        "forty-two",
+        "forty-three",
+        "forty"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 44 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "forty-four",
+        "forty-two",
+        "forty-three",
+        "forty-six"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 45 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "forty-two",
+        "forty-five",
+        "fourty-five",
+        "forty-three"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 46 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "forty-six",
+        "forty-eight",
+        "fourty-six",
+        "forty-five"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 47 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "forty-nine",
+        "forty-seven",
+        "forty-four",
+        "fourty-seven"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 48 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "forty-five",
+        "fourty-eight",
+        "forty-eight",
+        "fifty"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 49 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "forty-seven",
+        "forty-six",
+        "fourty-nine",
+        "forty-nine"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 50 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fifty-two",
+        "fifty",
+        "forty-nine",
+        "fifty-one"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 51 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fifty-three",
+        "forty-eight",
+        "fifty-two",
+        "fifty-one"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 52 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fifty-four",
+        "fifty-three",
+        "fifty-one",
+        "fifty-two"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice el número 53 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fifty-two",
+        "fifty-three",
+        "fifty-one",
+        "fifty-five"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 54 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fifty-six",
+        "fifty-three",
+        "fifty-four",
+        "fifty-seven"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 55 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fifty-eight",
+        "fifty-six",
+        "fifty-five",
+        "fifty-three"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 56 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fifty-six",
+        "fifty-five",
+        "fifty-nine",
+        "fifty-three"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice el número 57 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fifty-eight",
+        "sixty",
+        "fifty-seven",
+        "fifty-six"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice el número 58 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fifty-five",
+        "fifty-eight",
+        "sixty",
+        "fifty-nine"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 59 en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "fifty-eight",
+        "fifty-nine",
+        "fifty-six",
+        "sixty"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice el número 60 en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "fifty-eight",
+        "fifty-seven",
+        "fifty-nine",
+        "sixty"
+      ],
+      "correct": 3
+    }
+  ]
+}
