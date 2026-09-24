@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Ciencias: Tabla Periódica",
+  "questions": [
+    {
+      "text": "¿Qué elemento químico es \"H\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Praseodimio",
+        "Calcio",
+        "Hidrógeno",
+        "Antimonio"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Helio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Fe",
+        "He",
+        "Cu",
+        "Br"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué elemento químico es \"Li\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Potasio",
+        "Litio",
+        "Hidrógeno",
+        "Zinc"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Berilio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Be",
+        "He",
+        "O",
+        "Pr"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"B\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Selenio",
+        "Níquel",
+        "Helio",
+        "Boro"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Carbono?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Te",
+        "P",
+        "C",
+        "Li"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"N\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Niobio",
+        "Fósforo",
+        "Nitrógeno",
+        "Indio"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Oxígeno?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ca",
+        "Sr",
+        "O",
+        "Ru"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"F\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Xenón",
+        "Germanio",
+        "Aluminio",
+        "Flúor"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Neón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mg",
+        "Ne",
+        "Rh",
+        "Tc"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué elemento químico es \"Na\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Sodio",
+        "Rodio",
+        "Bromo",
+        "Xenón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Magnesio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mg",
+        "N",
+        "Cu",
+        "C"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"Al\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Aluminio",
+        "Potasio",
+        "Estroncio",
+        "Xenón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Silicio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Si",
+        "Pr",
+        "Ca",
+        "Kr"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"P\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Fósforo",
+        "Neón",
+        "Nitrógeno",
+        "Argón"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Azufre?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "S",
+        "Cl",
+        "Kr",
+        "V"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"Cl\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Zinc",
+        "Sodio",
+        "Cloro",
+        "Hierro"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Argón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ar",
+        "Co",
+        "Na",
+        "He"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"K\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Potasio",
+        "Yodo",
+        "Indio",
+        "Fósforo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Calcio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ca",
+        "Cr",
+        "C",
+        "In"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"Sc\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Escandio",
+        "Aluminio",
+        "Litio",
+        "Boro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Titanio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ti",
+        "K",
+        "Sn",
+        "Ga"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"V\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Vanadio",
+        "Rubidio",
+        "Tecnecio",
+        "Bromo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Cromo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ni",
+        "Cr",
+        "Cl",
+        "N"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué elemento químico es \"Mn\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Rutenio",
+        "Titanio",
+        "Estaño",
+        "Manganeso"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Hierro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "B",
+        "Fe",
+        "Cs",
+        "Pd"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué elemento químico es \"Co\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Calcio",
+        "Cobalto",
+        "Níquel",
+        "Cobre"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Níquel?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "He",
+        "Mo",
+        "Ni",
+        "F"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"Cu\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Rutenio",
+        "Cobre",
+        "Sodio",
+        "Azufre"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Zinc?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "S",
+        "Rb",
+        "Ce",
+        "Zn"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué elemento químico es \"Ga\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Manganeso",
+        "Titanio",
+        "Galio",
+        "Hidrógeno"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Germanio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Rh",
+        "Te",
+        "Ge",
+        "Si"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"As\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Indio",
+        "Níquel",
+        "Carbono",
+        "Arsénico"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Selenio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ga",
+        "Se",
+        "Pd",
+        "Zr"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué elemento químico es \"Br\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Carbono",
+        "Bromo",
+        "Cloro",
+        "Praseodimio"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Kriptón?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mn",
+        "Sb",
+        "He",
+        "Kr"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué elemento químico es \"Rb\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Potasio",
+        "Escandio",
+        "Rodio",
+        "Rubidio"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Estroncio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Na",
+        "Ti",
+        "Ar",
+        "Sr"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué elemento químico es \"Y\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cerio",
+        "Xenón",
+        "Rutenio",
+        "Itrio"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Circonio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Pd",
+        "Zr",
+        "Ar",
+        "Br"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué elemento químico es \"Nb\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Praseodimio",
+        "Niobio",
+        "Bario",
+        "Cloro"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Molibdeno?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mo",
+        "Zn",
+        "Zr",
+        "O"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"Tc\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bario",
+        "Tecnecio",
+        "Hidrógeno",
+        "Litio"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Rutenio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Nb",
+        "Rb",
+        "Sn",
+        "Ru"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué elemento químico es \"Rh\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Argón",
+        "Yodo",
+        "Rodio",
+        "Carbono"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Paladio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sb",
+        "Cs",
+        "Pd",
+        "Zr"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"Ag\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Rutenio",
+        "Plata",
+        "Circonio",
+        "Cromo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Cadmio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cd",
+        "Nd",
+        "Li",
+        "O"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"In\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Circonio",
+        "Indio",
+        "Rutenio",
+        "Flúor"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Estaño?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Te",
+        "Sb",
+        "Sn",
+        "Rb"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"Sb\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Helio",
+        "Antimonio",
+        "Escandio",
+        "Flúor"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Telurio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Si",
+        "Ba",
+        "Te",
+        "Ni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué elemento químico es \"I\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Bromo",
+        "Estroncio",
+        "Bario",
+        "Yodo"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Xenón?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Xe",
+        "Br",
+        "Mo",
+        "P"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"Cs\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cesio",
+        "Manganeso",
+        "Vanadio",
+        "Estaño"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Bario?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ba",
+        "Fe",
+        "Ag",
+        "V"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué elemento químico es \"La\"?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Escandio",
+        "Cobalto",
+        "Silicio",
+        "Lantano"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Cerio?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ni",
+        "Cd",
+        "Sc",
+        "Ce"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué elemento químico es \"Pr\"?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Praseodimio",
+        "Azufre",
+        "Escandio",
+        "Cromo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el símbolo químico del Neodimio?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Cu",
+        "Mg",
+        "I",
+        "Nd"
+      ],
+      "correct": 3
+    }
+  ]
+}
