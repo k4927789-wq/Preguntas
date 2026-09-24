@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "Inglés: Colores",
+  "questions": [
+    {
+      "text": "¿Qué significa \"red\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "café",
+        "rojo",
+        "blanco",
+        "rosa"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"azul\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "turquoise",
+        "gold",
+        "blue",
+        "red"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"green\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "verde",
+        "azul",
+        "rosa",
+        "café"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"amarillo\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "silver",
+        "white",
+        "green",
+        "yellow"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"orange\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "naranja",
+        "amarillo",
+        "azul",
+        "rojo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"morado\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "black",
+        "purple",
+        "silver",
+        "light blue"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"pink\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "plateado",
+        "amarillo",
+        "dorado",
+        "rosa"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"negro\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "pink",
+        "black",
+        "yellow",
+        "orange"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"white\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "blanco",
+        "rosa",
+        "rojo",
+        "plateado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"gris\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "red",
+        "green",
+        "yellow",
+        "gray"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"brown\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "azul",
+        "café",
+        "gris",
+        "rojo"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"dorado\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "blue",
+        "gold",
+        "green",
+        "red"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"silver\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "blanco",
+        "gris",
+        "plateado",
+        "negro"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"celeste\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "yellow",
+        "light blue",
+        "brown",
+        "pink"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"turquoise\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "dorado",
+        "gris",
+        "turquesa",
+        "verde"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"rojo\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "gray",
+        "red",
+        "brown",
+        "gold"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"blue\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "azul",
+        "café",
+        "rojo",
+        "plateado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"verde\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "green",
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"yellow\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "gris",
+        "amarillo",
+        "dorado",
+        "turquesa"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"naranja\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "pink",
+        "brown",
+        "turquoise",
+        "orange"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"purple\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "morado",
+        "plateado",
+        "café",
+        "amarillo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"rosa\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "blue",
+        "pink",
+        "red",
+        "black"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"black\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "naranja",
+        "morado",
+        "negro",
+        "azul"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"blanco\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "white",
+        "red",
+        "gray",
+        "blue"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"gray\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "gris",
+        "negro",
+        "plateado",
+        "morado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"café\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "brown",
+        "yellow",
+        "gold",
+        "pink"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"gold\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "turquesa",
+        "dorado",
+        "morado",
+        "blanco"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"plateado\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "gold",
+        "orange",
+        "silver",
+        "green"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"light blue\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "celeste",
+        "azul",
+        "naranja",
+        "verde"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"turquesa\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "yellow",
+        "red",
+        "black",
+        "turquoise"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"red\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "celeste",
+        "morado",
+        "rojo",
+        "rosa"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"azul\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "green",
+        "yellow",
+        "blue",
+        "silver"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"green\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "azul",
+        "verde",
+        "blanco",
+        "negro"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"amarillo\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "brown",
+        "light blue",
+        "yellow",
+        "green"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"orange\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "azul",
+        "rosa",
+        "naranja",
+        "rojo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"morado\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "light blue",
+        "gold",
+        "purple",
+        "green"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"pink\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "turquesa",
+        "amarillo",
+        "rosa",
+        "rojo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"negro\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "gray",
+        "light blue",
+        "brown",
+        "black"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"white\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "negro",
+        "gris",
+        "blanco",
+        "café"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"gris\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "gold",
+        "red",
+        "brown",
+        "gray"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"brown\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "café",
+        "turquesa",
+        "celeste",
+        "blanco"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"dorado\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "gold",
+        "yellow",
+        "blue",
+        "silver"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"silver\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "celeste",
+        "plateado",
+        "negro",
+        "dorado"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Cómo se dice \"celeste\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "light blue",
+        "gray",
+        "brown",
+        "red"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"turquoise\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "morado",
+        "dorado",
+        "amarillo",
+        "turquesa"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"rojo\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "red",
+        "turquoise",
+        "green",
+        "brown"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"blue\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "café",
+        "verde",
+        "azul",
+        "negro"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"verde\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "light blue",
+        "yellow",
+        "green",
+        "brown"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"yellow\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "café",
+        "blanco",
+        "rosa",
+        "amarillo"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"naranja\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "orange",
+        "turquoise",
+        "blue",
+        "pink"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué significa \"purple\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "verde",
+        "negro",
+        "café",
+        "morado"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Cómo se dice \"rosa\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "gold",
+        "yellow",
+        "purple",
+        "pink"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "¿Qué significa \"black\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "azul",
+        "celeste",
+        "negro",
+        "amarillo"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"blanco\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "blue",
+        "white",
+        "purple",
+        "gold"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"gray\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "blanco",
+        "negro",
+        "gris",
+        "dorado"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Cómo se dice \"café\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "orange",
+        "brown",
+        "yellow",
+        "red"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "¿Qué significa \"gold\" en español?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "dorado",
+        "gris",
+        "rojo",
+        "naranja"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"plateado\" en inglés?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "orange",
+        "red",
+        "silver",
+        "black"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "¿Qué significa \"light blue\" en español?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "celeste",
+        "rojo",
+        "café",
+        "turquesa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se dice \"turquesa\" en inglés?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "turquoise",
+        "red",
+        "silver",
+        "green"
+      ],
+      "correct": 0
+    }
+  ]
+}
