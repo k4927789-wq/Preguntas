@@ -1,0 +1,666 @@
+{
+  "app": "MikuQuiz",
+  "name": "One Piece",
+  "questions": [
+    {
+      "text": "¿Cómo se llama el protagonista de One Piece?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Monkey D. Luffy",
+        "Gol D. Roger",
+        "Portgas D. Ace",
+        "Trafalgar Law"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el sueño de Luffy?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ser el Rey de los Piratas",
+        "Ser el espadachín más fuerte",
+        "Encontrar el All Blue",
+        "Curar a todos"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llamaba originalmente la fruta del diablo de Luffy?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gomu Gomu no Mi",
+        "Mera Mera no Mi",
+        "Hito Hito no Mi",
+        "Gura Gura no Mi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué se revela que es realmente la fruta de Luffy?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hito Hito no Mi, modelo Nika (dios del sol)",
+        "Una fruta logia de fuego",
+        "Una fruta Zoan común",
+        "Fruta artificial"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De quién recibió Luffy su sombrero de paja?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "De Shanks",
+        "De Garp",
+        "De Ace",
+        "De Roger"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el primer miembro en unirse a la tripulación?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el sueño de Zoro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ser el espadachín más fuerte del mundo",
+        "Encontrar el One Piece",
+        "Ser Yonko",
+        "Mapa del mundo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿A quién debe derrotar Zoro para cumplir su promesa?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "A Mihawk",
+        "A Shanks",
+        "A Kuina",
+        "A Kuma"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué estilo de esgrima usa Zoro?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Santoryu (tres espadas)",
+        "Nitoryu",
+        "Ittoryu",
+        "Ryuo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién era Kuina?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "La amiga de infancia de Zoro",
+        "La hermana de Tashigi",
+        "La madre de Sanji",
+        "Una marine"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué papel tiene Nami en la tripulación de los Mugiwaras?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Navegante",
+        "Cocinera",
+        "Médica",
+        "Arqueóloga"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué villano sometió el pueblo de Nami?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Arlong",
+        "Crocodile",
+        "Buggy",
+        "Enel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el rol de Usopp?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Francotirador",
+        "Cocinero",
+        "Timonel",
+        "Músico"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el padre de Usopp?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Yasopp, del equipo de Shanks",
+        "Garp",
+        "Zeff",
+        "Igaram"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el cocinero de la tripulación?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Sanji",
+        "Zeff",
+        "Carne",
+        "Patty"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué restaurante dirigía el maestro de Sanji?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Baratie",
+        "All Blue",
+        "Whole Cake",
+        "Mugiwara"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el sueño de Sanji?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Encontrar el All Blue",
+        "Ser Yonko",
+        "La santoryu",
+        "Curar enfermedades"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué animal es Chopper?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Un reno que come la fruta Hito Hito",
+        "Un perro",
+        "Un mapache",
+        "Un oso"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el rol de Chopper?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Médico",
+        "Navegante",
+        "Carpintero",
+        "Espía"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Nico Robin?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Hana Hana no Mi (flor)",
+        "Hito Hito",
+        "Yomi Yomi",
+        "Bara Bara"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el rol de Robin?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Arqueóloga",
+        "Cocinera",
+        "Música",
+        "Soldado"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué isla arqueológica fue destruida por la Buster Call?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ohara",
+        "Enies Lobby",
+        "Water 7",
+        "Skypiea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Franky?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ninguna (es un cyborg)",
+        "Hito Hito",
+        "Bara Bara",
+        "Gomu Gomu"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué construyó Franky para la tripulación?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El Thousand Sunny",
+        "El Going Merry",
+        "El Ark Maxim",
+        "El Pluton"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta comió Brook?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Yomi Yomi no Mi (resurrección)",
+        "Hana Hana",
+        "Gura Gura",
+        "Mera Mera"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuál es el rol de Brook en la tripulación?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Músico",
+        "Francotirador",
+        "Carpintero",
+        "Timonel"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el timonel de los Mugiwaras?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Jinbe",
+        "Franky",
+        "Brook",
+        "Nami"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿De qué era Jinbe antes de unirse?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Shichibukai (Señor de la guerra)",
+        "Marine",
+        "Yonko",
+        "Revolucionario"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cómo se llamaba el primer barco de los Mugiwaras?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Going Merry",
+        "Thousand Sunny",
+        "Oro Jackson",
+        "Red Force"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién fue el Rey de los Piratas?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gol D. Roger",
+        "Barbablanca",
+        "Shanks",
+        "Luffy"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde fue ejecutado Gol D. Roger?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Loguetown",
+        "Marineford",
+        "Water 7",
+        "Sabaody"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué dijo Roger antes de morir que inició la Gran Era Pirata?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mi tesoro... si lo queréis, es vuestro ¡Búscalo!",
+        "Nunca existió",
+        "Está en el All Blue",
+        "Soy inocente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué tipo de fruta es la Gomu Gomu?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Paramecia (originalmente)",
+        "Logia",
+        "Zoan",
+        "Mythica"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué logia controla Ace?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mera Mera (fuego)",
+        "Moku Moku (humo)",
+        "Goro Goro (rayo)",
+        "Hie Hie (hielo)"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué le pasa a Ace en la guerra de Marineford?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Muere protegiendo a Luffy",
+        "Se une a la Marina",
+        "Se vuelve Yonko",
+        "Huye con Sabo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es el padre de Ace?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Gol D. Roger",
+        "Monkey D. Dragon",
+        "Barbablanca",
+        "Garp"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Sabo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El hermano adoptivo de Luffy y Ace",
+        "Un marine",
+        "Un Shichibukai",
+        "El padre de Luffy"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta obtiene Sabo tras la muerte de Ace?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Mera Mera",
+        "Gomu Gomu",
+        "Gura Gura",
+        "Yomi Yomi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Monkey D. Dragon?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "El padre de Luffy y líder revolucionario",
+        "El abuelo de Luffy",
+        "Un almirante",
+        "Un Yonko"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es Garp?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El abuelo de Luffy y héroe de la Marina",
+        "El padre de Ace",
+        "El maestro de Zoro",
+        "Un pirata"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Barbablanca?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gura Gura (temblores)",
+        "Gomu Gomu",
+        "Mera Mera",
+        "Zushi Zushi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué título tenía Barbablanca?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "El hombre más fuerte del mundo",
+        "El espadachín más fuerte",
+        "El hombre más listo",
+        "El rey"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué logia controla Enel en Skypiea?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Goro Goro (rayo)",
+        "Mera Mera",
+        "Pika Pika",
+        "Noro Noro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué organización lidera Crocodile en Alabasta?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Baroque Works",
+        "CP9",
+        "Los Seis estilos",
+        "Los Guerreros"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Crocodile?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Suna Suna (arena)",
+        "Hie Hie",
+        "Mera Mera",
+        "Iwa Iwa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Quién es la princesa de Alabasta que viaja con los Mugiwaras un tiempo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Vivi",
+        "Shirahoshi",
+        "Rebecca",
+        "Carrot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Donquixote Doflamingo?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Ito Ito (hilos)",
+        "Bara Bara",
+        "Gomu Gomu",
+        "Suna Suna"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué isla gobierna Doflamingo?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Dressrosa",
+        "Alabasta",
+        "Wano",
+        "Whole Cake"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Boa Hancock?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Mero Mero (amor/petrificación)",
+        "Hana Hana",
+        "Bara Bara",
+        "Goro Goro"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Dónde es emperatriz Boa Hancock?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Amazon Lily",
+        "Whole Cake",
+        "Dressrosa",
+        "Alabasta"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué Yonko muere en la guerra de Marineford?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Barbablanca",
+        "Shanks",
+        "Kaido",
+        "Big Mom"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Cuántos Road Poneglyphs se necesitan para llegar a Laugh Tale?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "4",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué son los Poneglyphs?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Piedras indestructibles con historia prohibida",
+        "Mapas del tesoro",
+        "Espadas legendarias",
+        "Frutas raras"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué arma ancestral es Shirahoshi?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Poseidón",
+        "Plutón",
+        "Uranus",
+        "Neptuno"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué habilidad despierta Luffy en Enies Lobby por primera vez?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Gear Second (Segundo)",
+        "Gear Fourth",
+        "Gear Third",
+        "Haki del conquistador"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué es el Gear Fourth de Luffy?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Boundman con haki",
+        "Gigantismo",
+        "Zoan awakening",
+        "Rayo"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué son los tres tipos de Haki?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Observación, Armadura y Conquistador",
+        "Fuego, Agua, Viento",
+        "Zoan, Logia, Paramecia",
+        "Ninguno"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Trafalgar Law?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Ope Ope (operación)",
+        "Hito Hito",
+        "Bara Bara",
+        "Gura Gura"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué personaje cómico es nombrado Yonko tras los eventos de Wano?",
+      "img": "https://files.catbox.moe/syw0zn.jpeg",
+      "answers": [
+        "Buggy",
+        "Usopp",
+        "Foxy",
+        "Moria"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "¿Qué fruta come Buggy?",
+      "img": "https://files.catbox.moe/z1wcqk.jpeg",
+      "answers": [
+        "Bara Bara (separarse en pedazos)",
+        "Gomu Gomu",
+        "Suna Suna",
+        "Bomu Bomu"
+      ],
+      "correct": 0
+    }
+  ]
+}
